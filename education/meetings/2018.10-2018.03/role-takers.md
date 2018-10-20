@@ -8,3 +8,12 @@
 `Grammarian` Fang Yao   
 `TTM` Yayun Sun   
 `Timer` Huihui Jiang   
+
+### 108, Imagine (2018.10.19)   
+`TMD` Jenny Yu   
+`Grammarian` Dongchen Tang   
+`Timer` Michelle Jin   
+`TTM` Yi Fang   
+`GE` Xin Feng   
+`IE` Jony Zheng, Michelle Wang, Taowen Zhang   
+`Ah-counter` Huihui Jiang   
