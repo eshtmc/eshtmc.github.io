@@ -25,3 +25,8 @@
 `CC-P8` Michelle Hua-The power of psychological hint   
 `CC-P9` Siyuan Jia-Let's learn making bread   
 `L1-4` Elvis Jiang-Deja vu   
+
+### 107, Emergency Handling (2018.10.13)   
+`TT` Dongchen Tang,Xin Feng  
+`L1-2` Jenny Yu-Happiness   
+`L1-2` Michelle Wang-Dancing with Anxiety   
