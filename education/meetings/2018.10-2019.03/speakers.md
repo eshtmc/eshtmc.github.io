@@ -10,3 +10,8 @@
 `CC-P8` Michelle Hua-The power of psychological hint   
 `CC-P9` Siyuan Jia-Let's learn making bread   
 `L1-4` Elvis Jiang-Deja vu   
+
+### 109, Double Eleven (2018.11.02)   
+`TT` Dongchen Tang,Michelle Wang,Lei Zhang,Lanlan Deng,Maggie Li,Yayun Sun,Xin Feng  
+`L1-2` Yi Fang-Sisyphus   
+`AC-11` Xin Feng-Hackathon for Dummies   
