@@ -6,3 +6,8 @@
 `Best Evaluator` Taowen Zhang    
 `Best Table Topic Speech` Taowen Zhang    
 `Best Prepared Speech` Elivs Jiang    
+
+### 109, Double Eleven (2018.11.02)   
+`Best Table Topic Speech` Yayun Sun    
+`Best Evaluator` eshtmc    
+`Best Prepared Speech` eshtmc    
