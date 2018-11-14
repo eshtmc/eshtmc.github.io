@@ -16,3 +16,8 @@
 `Best Table Topic Speech` Yayun Sun    
 `Best Evaluator` eshtmc    
 `Best Prepared Speech` eshtmc    
+
+### 108, Imagine (2018.10.20)   
+`Best Table Topic Speech` Taowen Zhang    
+`Best Evaluator` Taowen Zhang    
+`Best Prepared Speech` Elvis Jiang    

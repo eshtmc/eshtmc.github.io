@@ -19,3 +19,9 @@
 `TT` Dongchen Tang,Michelle Wang,Lei Zhang,Lanlan Deng,Maggie Li,Yayun Sun,Xin Feng  
 `L1-2` Yi Fang-Sisyphus   
 `AC-11` Xin Feng-Hackathon for Dummies   
+
+### 108, Imagine (2018.10.20)   
+`TT` Jenny Yu,Dongchen Tang,Taowen Zhang,Yao Fang,Jing Shao  
+`CC-P8` Michelle Hua-The power of psychological hint   
+`CC-P9` Siyuan Jia-Let's learn making bread   
+`L1-4` Elvis Jiang-Deja vu   
