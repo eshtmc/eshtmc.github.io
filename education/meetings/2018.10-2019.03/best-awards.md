@@ -11,3 +11,8 @@
 `Best Table Topic Speech` Yayun Sun    
 `Best Evaluator` eshtmc    
 `Best Prepared Speech` eshtmc    
+
+### 109, Double Eleven (2018.11.03)   
+`Best Table Topic Speech` Yayun Sun    
+`Best Evaluator` eshtmc    
+`Best Prepared Speech` eshtmc    

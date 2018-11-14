@@ -25,3 +25,12 @@
 `Ah-counter` Siyuan Jia   
 `TMD` Elvis Jiang   
 `Timer` Jenny Yu   
+
+### 109, Double Eleven (2018.11.03)   
+`IE` Dongchen Tang,Michelle Wang   
+`TTM` Wujie Zhang   
+`GE` Michelle Jin   
+`Grammarian` Huihui Jiang   
+`Ah-counter` Siyuan Jia   
+`TMD` Elvis Jiang   
+`Timer` Jenny Yu   

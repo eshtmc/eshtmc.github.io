@@ -14,3 +14,8 @@
 `TT` Dongchen Tang,Michelle Wang,Lei Zhang,Lanlan Deng,Maggie Li,Yayun Sun,Xin Feng  
 `L1-2` Yi Fang-Sisyphus   
 `AC-11` Xin Feng-Hackathon for Dummies   
+
+### 109, Double Eleven (2018.11.03)   
+`TT` Dongchen Tang,Michelle Wang,Lei Zhang,Lanlan Deng,Maggie Li,Yayun Sun,Xin Feng  
+`L1-2` Yi Fang-Sisyphus   
+`AC-11` Xin Feng-Hackathon for Dummies   
