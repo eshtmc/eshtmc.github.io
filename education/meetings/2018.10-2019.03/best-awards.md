@@ -19,3 +19,8 @@
 `Best Table Topic Speech` Stefanie    
 `Best Evaluator` eshtmc    
 `Best Prepared Speech` eshtmc    
+
+### 111, Appreciation (2018.11.30)   
+`Best Table Topic Speech` Stefanie    
+`Best Evaluator` eshtmc    
+`Best Prepared Speech` eshtmc    

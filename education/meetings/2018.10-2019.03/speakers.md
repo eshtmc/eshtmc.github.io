@@ -20,3 +20,8 @@
 `TT` eshtmc,Janice Deng,Dongchen Tang,Cindy Huang  
 `L1-4` Dongchen Tang-Paradoxical Intention   
 `Share` Michelle Wang-学习老田TBD11周年庆典的分享---幽默，生命中的调料   
+
+### 111, Appreciation (2018.11.30)   
+`TT` eshtmc,Elvis Jiang,Dongchen Tang,Nrapendra Singh  
+`P2-1` Elvis Jiang-My Communication Style   
+`AC-2` Xin Feng-Reading.im   

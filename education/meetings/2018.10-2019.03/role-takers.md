@@ -35,3 +35,12 @@
 `Ah-counter` Janice Deng   
 `Grammarian` Wujie Zhang   
 `TTM` Huihui Jiang   
+
+### 111, Appreciation (2018.11.30)   
+`TMD` Yao Fang   
+`GE` Michelle Wang   
+`Timer` Jing Shao   
+`IE` Dongchen Tang   
+`Ah-counter` Hong Wang   
+`Grammarian` Nrapendra Singh   
+`TTM` Jony Zheng   
