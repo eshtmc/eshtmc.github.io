@@ -14,3 +14,8 @@
 `Best Table Topic Speech` Yayun Sun    
 `Best Evaluator` eshtmc    
 `Best Prepared Speech` eshtmc    
+
+### 110, Luck Fish (2018.11.16)   
+`Best Table Topic Speech` Stefanie    
+`Best Evaluator` eshtmc    
+`Best Prepared Speech` eshtmc    

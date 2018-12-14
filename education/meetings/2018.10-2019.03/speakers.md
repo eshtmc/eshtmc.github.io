@@ -15,3 +15,8 @@
 `TT` Dongchen Tang,Michelle Wang,Lei Zhang,Lanlan Deng,Maggie Li,Yayun Sun,Xin Feng  
 `L1-2` Yi Fang-Sisyphus   
 `AC-11` Xin Feng-Hackathon for Dummies   
+
+### 110, Luck Fish (2018.11.16)   
+`TT` eshtmc,Janice Deng,Dongchen Tang,Cindy Huang  
+`L1-4` Dongchen Tang-Paradoxical Intention   
+`Share` Michelle Wang-学习老田TBD11周年庆典的分享---幽默，生命中的调料   

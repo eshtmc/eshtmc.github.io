@@ -26,3 +26,12 @@
 `Ah-counter` Siyuan Jia   
 `TMD` Elvis Jiang   
 `Timer` Jenny Yu   
+
+### 110, Luck Fish (2018.11.16)   
+`TMD` Xin Feng   
+`GE` Michelle Jin   
+`Timer` Hong Wang   
+`IE` Michelle Hua   
+`Ah-counter` Janice Deng   
+`Grammarian` Wujie Zhang   
+`TTM` Huihui Jiang   
