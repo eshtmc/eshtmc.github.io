@@ -24,3 +24,8 @@
 `Best Table Topic Speech` Stefanie    
 `Best Evaluator` eshtmc    
 `Best Prepared Speech` eshtmc    
+
+### 112, Marriage (2018.12.14)   
+`Best Table Topic Speech` Xin Feng    
+`Best Evaluator` Taowen Zhang    
+`Best Prepared Speech` Alice Huang    
