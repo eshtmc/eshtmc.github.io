@@ -105,3 +105,12 @@
 `Ah-counter` Dongchen Tang   
 `Grammarian` Wujie Zhang   
 `TTM` Elvis Jiang   
+
+### 113, Presence of Mind (2018.12.28)   
+`IE` Michelle Jin,Jony Zheng,Stefanie   
+`Grammarian` Yao Fang   
+`Ah-counter` Jenny Yu   
+`TTM` Nrapendra Singh   
+`GE` Dongchen Tang   
+`Timer` Hongyu Qi   
+`TMD` Taowen Zhang   

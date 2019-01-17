@@ -53,3 +53,8 @@
 `Best Table Topic Speech` Xin Feng    
 `Best Evaluator` Taowen Zhang    
 `Best Prepared Speech` Alice Huang    
+
+### 113, Presence of Mind (2018.12.28)   
+`Best Evaluator` Stefanie    
+`Best Prepared Speech` Elvis Jiang    
+`Best Table Topic Speech` Xin Feng    

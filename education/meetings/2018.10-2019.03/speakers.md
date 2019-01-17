@@ -66,3 +66,9 @@
 `L1-2-1` Yao Fang-My favorite TV character   
 `L1-2-2` Nrapendra Singh-Listening is a fine Art   
 `P8` Alice Huang-Communicate with no judgement   
+
+### 113, Presence of Mind (2018.12.28)   
+`TT` Elvis Jiang,Dongchen Tang,Maggie Li,Xin Feng,ChunMiao Liu,Fangrong Kong  
+`CC7` Sarah Zhang-Stress out   
+`AC3` Xin Feng-Py Lookup   
+`L2-3` Elvis Jiang-Journey of being a mentee   
