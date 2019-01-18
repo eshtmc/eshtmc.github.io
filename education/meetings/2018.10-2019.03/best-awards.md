@@ -58,3 +58,8 @@
 `Best Evaluator` Stefanie    
 `Best Prepared Speech` Elvis Jiang    
 `Best Table Topic Speech` Xin Feng    
+
+### 114, 5G (2019.01.11)   
+`Best Prepared Speech` eshtmc    
+`Best Evaluator` eshtmc    
+`Best Table Topic Speech` Dongchen Tang    

@@ -114,3 +114,12 @@
 `GE` Dongchen Tang   
 `Timer` Hongyu Qi   
 `TMD` Taowen Zhang   
+
+### 114, 5G (2019.01.11)   
+`IE` Elvis Jiang,Michelle Jin,Nrapendra Singh   
+`Ah-counter` Jing Shao   
+`GE` Michelle Hua   
+`TMD` Xin Feng   
+`Grammarian` Maggie Li   
+`Timer` Jenny Yu   
+`TTM` Michelle Wang   
