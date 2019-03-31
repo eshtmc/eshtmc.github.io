@@ -79,10 +79,12 @@
 `L2-1` Dongchen Tang-Identify My Leadership Style   
 
 ### 115, Retrospection & Prospect (2019.01.25) 
+`TT` Lei Zhang,Michelle Wang,Hongyu Qi,Lanlan Deng   
 `L1-2` Yi Fang-Journey of Journey   
 `L2-3` Nrapendra Singh-Life Long Student   
 
 ### 116, Motivation (2019.02.15)
+`TT` Xin Feng,Ivana,Tao Wen,Elvis Jiang   
 `L1-1` Huihui Jiang-Triple A   
 `AC-1` Michelle Jin-Frozen   
 `L2-2` Dongchen Tang-Go Go Go   
