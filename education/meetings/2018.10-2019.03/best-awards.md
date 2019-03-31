@@ -63,3 +63,21 @@
 `Best Prepared Speech` eshtmc    
 `Best Evaluator` eshtmc    
 `Best Table Topic Speech` Dongchen Tang    
+
+### 115, Retrospection & Prospect (2019.01.25) 
+`Best Table Topic Speech` Hongyu Qi   
+
+### 116, Motivation (2019.02.15)
+`Best Evaluator` Yi Fang   
+`Best Table Topic Speech` Ivana   
+`Best Prepared Speech` Dongchen Tang   
+
+### 117, Self-Discovery (2019.03.1)
+`Best Prepared Speech` Nrapendra Singh   
+
+### 118, Persuasion (2019.03.15)
+
+### 119, Moments (2019.03.29)
+`Best Evaluator` Dongchen Tang   
+`Best Table Topic Speech` Ivana   
+`Best Prepared Speech` Michelle Jin   
