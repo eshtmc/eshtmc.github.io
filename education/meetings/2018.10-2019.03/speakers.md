@@ -77,3 +77,31 @@
 `TT` Dongchen Tang,Lei Zhang,ChunMiao Liu,Fangrong Kong  
 `L1-1` Hongyu Qi-Try Everything   
 `L2-1` Dongchen Tang-Identify My Leadership Style   
+
+### 115, 5G (2019.01.25) 
+`L1-2` Yi Fang-Journey of Journey   
+`L2-3` Nrapendra Singh-Life Long Student   
+
+### 116, 5G (2019.02.15)
+`L1-1` Huihui Jiang-Triple A   
+`AC-1` Michelle Jin-Frozen   
+`L2-2` Dongchen Tang-Go Go Go   
+`CC-9` Michelle Hua-1 Happiness and 3 Worries   
+
+### 117, 5G (2019.03.1)
+`L1-1` Jing Shao-Rock Rock   
+`L1-2` Hongyu Qi-Love Language   
+`L1-3` Nrapendra Singh-I see something   
+`L3-1` Elvis Jiang-Tame your Emotion   
+`AC2` Michelle Jin-Outing   
+
+### 118, 5G (2019.03.15)
+`L1-2` Huihui Jiang-Dream Crazier      
+`L3-2` Elvis Jiang-Subhealth   
+
+### 119, 5G (2019.03.29)
+`TT` Lei Zhang,Ivana,Andreas Sarlin,Xin Feng,Alicia   
+`L1-1` Lei Zhang-Change   
+`L1-1` Chunmiao Liu-Deep Roots   
+`L1-3` Yi Fang-You can draw in 30 days   
+`AC2` Chinese Aunt-Michelle Jin   
