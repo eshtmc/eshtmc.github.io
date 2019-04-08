@@ -1,4 +1,3 @@
-
 ### 2018.10-2019.03
 [attendance](https://eshtmc.github.io/education/meetings/2018.10-2019.03/attendance.html)
 [best-awards](https://eshtmc.github.io/education/meetings/2018.10-2019.03/best-awards)
