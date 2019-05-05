@@ -1,28 +1,5 @@
 #### [Home](https://eshtmc.github.io/)    
 
-### 101, Self-discipline (2018-07-13)
-`TT`  Hong Wang, Nrapendra singh, Haoming Zheng, Stanley, Michelle Jin, Michelle Wang    
-`CC1` Fang Yao -  'Doctors' in Ericsson  
-`P1` Elvis Jiang - A fresh meat is ready to serve   
-`CC6` Sarah Zhang - Armstrong
-
-### 102, Music (2018-07-27)
-`TT`  Huihui, Yi Fang, Nrapendra Singh, Qingzhen, Jun Liu    
-`P1` Jenny Yu -  My Change   
-`P1` Michelle Wang - Toastmaster and I
-
-### 103, Balance (2018-08-10)
-`TT`  Eve Zhang, Jenny Yu, Jun Liu, Dongchen Tang  
-`CC7` Siyuan Jia -  kubernetes say hello  
-`P2` Elvis Jiang - Be like a man
-
-### 104, Speech Marathon (2018-08-24)
-`CC7` Michelle Hua - People Pleasing   
-`CC8` Xin Feng - Bear Labs   
-`AC4` Michelle Jin - Doraemon and Aladin   
-`L11` Nrapendra Singh - Social Engineering   
-`L11` Yi Fang - Curiosity Opens My Mind    
-
 ### 105, English (2018-09-07)
 `TT` Xin Feng, Huihui Jiang , Elvis Jiang, Nrapendra Singh, Michelle Wang, Dongchen Tang  
 `L11` Hong Wang - Ordinary me    

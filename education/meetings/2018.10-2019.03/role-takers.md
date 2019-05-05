@@ -1,39 +1,5 @@
 #### [Home](https://eshtmc.github.io/)    
 
-### 101, Self-discipline (2018-07-13)
-`TMD` Haoming Zheng     
-`TTM` Dongchen Tang    
-`GE` Hongyu Qi    
-`IE` Jun Liu , Siyuan Jia, Jony Zheng    
-`Grammarian` Xin Feng    
-`Timer` Qingzhen Deng   
-`Ah-Counter` Michelle Hua
-
-### 102, Music (2018-07-27)
-`TMD` Michelle Jin     
-`TTM` Dongchen Tang    
-`GE` Sarah Zhang    
-`IE` Jun Liu, Taowen Zhang   
-`Grammarian` Xin Feng    
-`Timer` Wujie Zhang   
-`Ah-Counter` Nrapendra Singh
-
-### 103, Balance (2018-08-10)
-`TMD` Michelle Jin     
-`TTM` Xin Feng    
-`GE` Jason Xu    
-`IE` Dongchen Tang, Michelle Wang    
-`Timer` Fang Yao    
-`Ah-Counter` Nrapendra Singh   
-
-### 104, Speech Marathon (2018-08-24)
-`TMD` Jun Liu         
-`GE` Taowen Zhang    
-`IE` Dongchen Tang, Jane Gong, Andy Guo, Sarah Zhang, Qingzhen Deng   
-`Grammarian` Elvis Jiang
-`Timer` Hong Wang    
-`Ah-Counter` Siyuan Jia  
-
 ### 105, English (2018-09-07)
 `TMD` Jun Liu  
 `TTM` Siyuan Jia          
