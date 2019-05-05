@@ -11,5 +11,5 @@
 ### 121, How to be happy at work (2019-04-26)
 `TT`  Bingchen Guo, Jenny Yu, Ivana   
 `L1-2` Lei Zhang - 996   
-`AC2-P5` Michelle Jin - Esmeralda
-`Sharing Speech` How to be happy at work - Wendy Wu   
+`AC2-P5` Michelle Jin - Esmeralda     
+`Sharing Speech` How to be happy at work - Wendy Wu    
