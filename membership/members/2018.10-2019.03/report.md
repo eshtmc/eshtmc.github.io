@@ -26,8 +26,6 @@
 * Roles:        1
 
 ##### Dongchen Tang
-`TT` in Meeting 103, Balance (2018-08-10)
-
 `TT` in Meeting 105, English (2018-09-07)
 
 `TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
@@ -52,14 +50,6 @@
 
 `L2-2` in Meeting 116, Motivation (2019.02.15)
 
-`TTM` in Meeting 101, Self-discipline (2018-07-13)
-
-`TTM` in Meeting 102, Music (2018-07-27)
-
-`IE` in Meeting 103, Balance (2018-08-10)
-
-`IE` in Meeting 104, Speech Marathon (2018-08-24)
-
 `GE` in Meeting 105, English (2018-09-07)
 
 `GE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
@@ -83,14 +73,10 @@
 `IE` in Meeting 119, Moments (2019.03.29)   
 
 
-* Speeches:       13
-* Roles:       15
+* Speeches:       12
+* Roles:       11
 
 ##### Elvis Jiang
-`P1` in Meeting 101, Self-discipline (2018-07-13)
-
-`P2` in Meeting 103, Balance (2018-08-10)
-
 `TT` in Meeting 105, English (2018-09-07)
 
 `L12` in Meeting 105, English (2018-09-07)
@@ -111,8 +97,6 @@
 
 `L3-2` in Meeting 118, Persuasion (2019.03.15)
 
-`Grammarian` in Meeting 104, Speech Marathon (2018-08-24)
-
 `IE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
 
 `TMD` in Meeting 109, Double Eleven (2018.11.02)   
@@ -128,14 +112,10 @@
 `TMD` in Meeting 119, Moments (2019.03.29)   
 
 
-* Speeches:       12
-* Roles:        8
+* Speeches:       10
+* Roles:        7
 
 ##### Fang Yao
-`CC1` in Meeting 101, Self-discipline (2018-07-13)
-
-`Timer` in Meeting 103, Balance (2018-08-10)
-
 `Ah-Counter` in Meeting 105, English (2018-09-07)
 
 `TTM` in Meeting 115, Retrospection & Prospect (2019.01.25)   
@@ -147,15 +127,11 @@
 `Grammarian` in Meeting 119, Moments (2019.03.29)   
 
 
-* Speeches:        1
-* Roles:        6
+* Speeches:        0
+* Roles:        5
 
 ##### Hong Wang
-`TT` in Meeting 101, Self-discipline (2018-07-13)
-
 `L11` in Meeting 105, English (2018-09-07)
-
-`Timer` in Meeting 104, Speech Marathon (2018-08-24)
 
 `TMD` in Meeting 107, Emergency Handling (2018.10.12)   
 
@@ -164,8 +140,8 @@
 `Ah-counter` in Meeting 111, Appreciation (2018.11.30)   
 
 
-* Speeches:        2
-* Roles:        4
+* Speeches:        1
+* Roles:        3
 
 ##### Hongyu Qi
 `L1-1` in Meeting 114, 5G (2019.01.11)   
@@ -173,8 +149,6 @@
 `TT` in Meeting 115, Retrospection & Prospect (2019.01.25) 
 
 `L1-2` in Meeting 117, Self-Discovery (2019.03.1)
-
-`GE` in Meeting 101, Self-discipline (2018-07-13)
 
 `Timer` in Meeting 113, Presence of Mind (2018.12.28)   
 
@@ -186,7 +160,7 @@
 
 
 * Speeches:        3
-* Roles:        5
+* Roles:        4
 
 ##### Huihui Jiang
 `TT` in Meeting 105, English (2018-09-07)
@@ -214,21 +188,15 @@
 * Roles:        7
 
 ##### Jane Gong
-`IE` in Meeting 104, Speech Marathon (2018-08-24)
-
 `IE` in Meeting 105, English (2018-09-07)
 
 `GE` in Meeting 115, Retrospection & Prospect (2019.01.25)   
 
 
 * Speeches:        0
-* Roles:        3
+* Roles:        2
 
 ##### Jenny Yu
-`P1` in Meeting 102, Music (2018-07-27)
-
-`TT` in Meeting 103, Balance (2018-08-10)
-
 `L1-2` in Meeting 107, Emergency Handling (2018.10.12)   
 
 `TT` in Meeting 108, Imagine (2018.10.19)   
@@ -248,7 +216,7 @@
 `TMD` in Meeting 118, Persuasion (2019.03.15)   
 
 
-* Speeches:        4
+* Speeches:        2
 * Roles:        7
 
 ##### Jing Shao
@@ -271,8 +239,6 @@
 ##### Jony Zheng
 `TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
 
-`IE` in Meeting 101, Self-discipline (2018-07-13)
-
 `IE` in Meeting 108, Imagine (2018.10.19)   
 
 `TTM` in Meeting 111, Appreciation (2018.11.30)   
@@ -281,7 +247,7 @@
 
 
 * Speeches:        1
-* Roles:        4
+* Roles:        3
 
 ##### Lanlan Deng
 `TT` in Meeting 109, Double Eleven (2018.11.02)   
@@ -337,36 +303,24 @@
 * Roles:        6
 
 ##### Michelle Hua
-`CC7` in Meeting 104, Speech Marathon (2018-08-24)
-
 `CC-P8` in Meeting 108, Imagine (2018.10.19)   
 
 `CC-9` in Meeting 116, Motivation (2019.02.15)
-
-`Ah-Counter` in Meeting 101, Self-discipline (2018-07-13)
 
 `IE` in Meeting 110, Luck Fish (2018.11.16)   
 
 `GE` in Meeting 114, 5G (2019.01.11)   
 
 
-* Speeches:        3
-* Roles:        3
+* Speeches:        2
+* Roles:        2
 
 ##### Michelle Jin
-`TT` in Meeting 101, Self-discipline (2018-07-13)
-
-`AC4` in Meeting 104, Speech Marathon (2018-08-24)
-
 `AC1-5` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
 
 `AC-1` in Meeting 116, Motivation (2019.02.15)
 
 `AC2` in Meeting 117, Self-Discovery (2019.03.1)
-
-`TMD` in Meeting 102, Music (2018-07-27)
-
-`TMD` in Meeting 103, Balance (2018-08-10)
 
 `Timer` in Meeting 108, Imagine (2018.10.19)   
 
@@ -381,14 +335,10 @@
 `IE` in Meeting 114, 5G (2019.01.11)   
 
 
-* Speeches:        6
-* Roles:        8
+* Speeches:        4
+* Roles:        6
 
 ##### Michelle Wang
-`TT` in Meeting 101, Self-discipline (2018-07-13)
-
-`P1` in Meeting 102, Music (2018-07-27)
-
 `TT` in Meeting 105, English (2018-09-07)
 
 `L1-2` in Meeting 107, Emergency Handling (2018.10.12)   
@@ -400,8 +350,6 @@
 `TT` in Meeting 112, Marriage (2018.12.14)   
 
 `TT` in Meeting 115, Retrospection & Prospect (2019.01.25) 
-
-`IE` in Meeting 103, Balance (2018-08-10)
 
 `IE` in Meeting 105, English (2018-09-07)
 
@@ -422,14 +370,10 @@
 `IE` in Meeting 117, Self-Discovery (2019.03.1)   
 
 
-* Speeches:        8
-* Roles:       10
+* Speeches:        6
+* Roles:        9
 
 ##### Nrapendra Singh
-`TT` in Meeting 102, Music (2018-07-27)
-
-`L11` in Meeting 104, Speech Marathon (2018-08-24)
-
 `TT` in Meeting 105, English (2018-09-07)
 
 `L1-2` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
@@ -444,10 +388,6 @@
 
 `L1-3` in Meeting 117, Self-Discovery (2019.03.1)
 
-`Ah-Counter` in Meeting 102, Music (2018-07-27)
-
-`Ah-Counter` in Meeting 103, Balance (2018-08-10)
-
 `Grammarian` in Meeting 105, English (2018-09-07)
 
 `Grammarian` in Meeting 111, Appreciation (2018.11.30)   
@@ -457,26 +397,16 @@
 `IE` in Meeting 114, 5G (2019.01.11)   
 
 
-* Speeches:        9
-* Roles:        6
+* Speeches:        7
+* Roles:        4
 
 ##### Qingzhen Deng
-`Timer` in Meeting 101, Self-discipline (2018-07-13)
-
-`IE` in Meeting 104, Speech Marathon (2018-08-24)
-
 
 * Speeches:        0
-* Roles:        2
+* Roles:        0
 
 ##### Sarah Zhang
-`CC6` in Meeting 101, Self-discipline (2018-07-13)
-
 `CC7` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`GE` in Meeting 102, Music (2018-07-27)
-
-`IE` in Meeting 104, Speech Marathon (2018-08-24)
 
 `IE` in Meeting 116, Motivation (2019.02.15)   
 
@@ -485,36 +415,26 @@
 `IE` in Meeting 119, Moments (2019.03.29)   
 
 
-* Speeches:        2
-* Roles:        5
+* Speeches:        1
+* Roles:        3
 
 ##### Siyuan Jia
-`CC7` in Meeting 103, Balance (2018-08-10)
-
 `CC8` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
 
 `CC-P9` in Meeting 108, Imagine (2018.10.19)   
-
-`IE` in Meeting 101, Self-discipline (2018-07-13)
-
-`Ah-Counter` in Meeting 104, Speech Marathon (2018-08-24)
 
 `TTM` in Meeting 105, English (2018-09-07)
 
 `Ah-counter` in Meeting 109, Double Eleven (2018.11.02)   
 
 
-* Speeches:        3
-* Roles:        4
+* Speeches:        2
+* Roles:        2
 
 ##### Taowen Zhang
 `TT` in Meeting 108, Imagine (2018.10.19)   
 
 `TT` in Meeting 112, Marriage (2018.12.14)   
-
-`IE` in Meeting 102, Music (2018-07-27)
-
-`GE` in Meeting 104, Speech Marathon (2018-08-24)
 
 `Timer` in Meeting 105, English (2018-09-07)
 
@@ -528,12 +448,10 @@
 
 
 * Speeches:        2
-* Roles:        7
+* Roles:        5
 
 ##### Wujie Zhang
 `TT` in Meeting 112, Marriage (2018.12.14)   
-
-`Timer` in Meeting 102, Music (2018-07-27)
 
 `TTM` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
 
@@ -545,11 +463,9 @@
 
 
 * Speeches:        1
-* Roles:        5
+* Roles:        4
 
 ##### Xin Feng
-`CC8` in Meeting 104, Speech Marathon (2018-08-24)
-
 `TT` in Meeting 105, English (2018-09-07)
 
 `AC5` in Meeting 105, English (2018-09-07)
@@ -574,12 +490,6 @@
 
 `TT` in Meeting 119, Moments (2019.03.29)
 
-`Grammarian` in Meeting 101, Self-discipline (2018-07-13)
-
-`Grammarian` in Meeting 102, Music (2018-07-27)
-
-`TTM` in Meeting 103, Balance (2018-08-10)
-
 `IE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
 
 `GE` in Meeting 108, Imagine (2018.10.19)   
@@ -599,14 +509,10 @@
 `IE` in Meeting 119, Moments (2019.03.29)   
 
 
-* Speeches:       13
-* Roles:       12
+* Speeches:       12
+* Roles:        9
 
 ##### Yi Fang
-`TT` in Meeting 102, Music (2018-07-27)
-
-`L11` in Meeting 104, Speech Marathon (2018-08-24)
-
 `L1-2` in Meeting 109, Double Eleven (2018.11.02)   
 
 `L1-2` in Meeting 115, Retrospection & Prospect (2019.01.25) 
@@ -622,6 +528,6 @@
 `IE` in Meeting 116, Motivation (2019.02.15)   
 
 
-* Speeches:        5
+* Speeches:        3
 * Roles:        4
 
