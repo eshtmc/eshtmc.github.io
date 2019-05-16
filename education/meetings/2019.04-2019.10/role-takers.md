@@ -11,3 +11,12 @@
 `IE` Maggie Li,Janice Deng         
 `Grammarian` Ivana    
 `Timer` Jing Shao    
+
+### 122, My mum (2019-05-10)
+`TMD` Hongyu Qi   
+`GE` Michelle Jin    
+`IE` Ivana Pazek,Dongcheng Tang         
+`Grammarian` Chunmiao Liu    
+`Timer` Janice Deng    
+`Ah-counter` Jing Shao
+`TTM` Michelle Wang
