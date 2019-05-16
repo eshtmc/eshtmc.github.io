@@ -13,3 +13,8 @@
 `L1-2` Lei Zhang - 996   
 `AC2-P5` Michelle Jin - Esmeralda     
 `Sharing Speech` How to be happy at work - Wendy Wu    
+
+### 122, My mum (2019-05-10)
+`TT`  Samvel, Janice Deng, Elvis Jiang, Sarah Zhang, Bingchen Guo, Lanlan Deng   
+`L1-2` Xin Feng -Yogo Man   
+`P9` Sarah Zhang - Spread the spark of a Toastmaster     
