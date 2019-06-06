@@ -20,3 +20,16 @@
 `Timer` Janice Deng    
 `Ah-counter` Jing Shao
 `TTM` Michelle Wang
+
+### 123, 1 + 1 > 2 (2019-05-24)
+`TMD` Elvis Jiang   
+`IE` Ivana Pazek,Sarah Zhang         
+`TTM` Michelle Wang
+
+### 124, Children's Day (2019-05-31)
+`TMD` Lei Zhang   
+`GE` Elvis Jiang    
+`IE` Ivana Pazek, Nrapendra Singh, Michelle Wang         
+`Timer` Michelle Jin    
+`Ah-counter` Lanlan Deng
+`TTM` Anne Lin
