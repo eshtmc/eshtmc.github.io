@@ -18,3 +18,14 @@
 `TT`  Samvel, Janice Deng, Elvis Jiang, Sarah Zhang, Bingchen Guo, Lanlan Deng   
 `L1-2` Xin Feng -Yogo Man   
 `P9` Sarah Zhang - Spread the spark of a Toastmaster     
+
+### 123, 1 + 1 > 2 (2019-05-24)
+`TT`  Stanley Feng, Maggie Li, Winnie Xie, Sarah Zhang, Nrapendra Singh, Ivana, Greta   
+`CC6` Xin Feng -5 years   
+`L2-1` Nrapendra - Watermelon
+
+### 124, Children's Day (2019-05-31)
+`TT`  Lanlan Deng, Sarah Zhang, Massimo Albam, Ivana, Nrapendra Singh   
+`L1-2-1` Maggie Li -Emotion   
+`L1-2-2` Fang Yao - How to treat your sleep disorders
+`L1-2-2` Jing Shao -Defense Mechanism   
