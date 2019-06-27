@@ -15,3 +15,7 @@
 `Best Table Topic Speech` Massimo   
 `Best Prepared Speech` Fang Yao   
 `Best Evaluator` Nrapendra Singh   
+
+### 125, Demo (2019-06-14)
+`Best Prepared Speech` Nrapendra   
+`Best Evaluator` Ivana   
