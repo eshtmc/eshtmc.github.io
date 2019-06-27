@@ -34,3 +34,9 @@
 `L1-1` Fangrong Kong - How do I lego myself   
 `L1-2` Chunmiao Liu - A powerful Magic on Earth   
 `L2-3` Nrapendra - Lost and Found   
+
+### 126, Dance (2019-06-21)
+`TT` Dongchen Tang, Maggie Li, Elvis Jiang, Jenny Yu, Lanlan Deng
+`L1-1` Lanlan Deng - My Journey in Ericsson   
+`L1-3` the First 20 Hours - Jenny Yu   
+
