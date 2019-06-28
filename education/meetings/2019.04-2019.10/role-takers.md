@@ -47,5 +47,5 @@
 `GE` Nrapendra    
 `IE` Michelle Wang, Janice Deng, Dongchen Tang         
 `Timer` Jing Shao    
-`Ah-counter` Anne Lin
-`TTM` Sarah Zhang
+`Ah-counter` Anne Lin   
+`TTM` Sarah Zhang   
