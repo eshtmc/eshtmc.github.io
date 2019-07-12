@@ -18,28 +18,29 @@
 `IE` Ivana Pazek,Dongcheng Tang         
 `Grammarian` Chunmiao Liu    
 `Timer` Janice Deng    
-`Ah-counter` Jing Shao
+`Ah-counter` Jing Shao   
 `TTM` Michelle Wang
 
 ### 123, 1 + 1 > 2 (2019-05-24)
 `TMD` Elvis Jiang   
 `IE` Ivana Pazek,Sarah Zhang         
-`TTM` Michelle Wang
+`TTM` Michelle Wang   
 
 ### 124, Children's Day (2019-05-31)
 `TMD` Lei Zhang   
 `GE` Elvis Jiang    
 `IE` Ivana Pazek, Nrapendra Singh, Michelle Wang         
 `Timer` Michelle Jin    
-`Ah-counter` Lanlan Deng
+`Ah-counter` Lanlan Deng   
 `TTM` Anne Lin
 
 ### 125, demo (2019-06-14)
 `TMD` Maggie Li   
 `GE` Dongchen Tang    
-`IE` Ivana Pazek, Elvis Jiang, Jenny Yu         
+`IE` Ivana Pazek, Elvis Jiang, Jenny Yu     
+`Grammarian` Lanlan Deng   
 `Timer` Bingchen Guo    
-`Ah-counter` Fang Yao
+`Ah-counter` Fang Yao   
 `TTM` Xin Feng
 
 ### 126, demo (2019-06-21)
