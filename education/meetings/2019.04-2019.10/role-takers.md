@@ -50,3 +50,12 @@
 `Timer` Jing Shao    
 `Ah-counter` Anne Lin   
 `TTM` Sarah Zhang   
+
+### 127, Calorie (2019-07-12)
+`TMD` Elvis Jiang, Lei Zhang   
+`GE` Yi Fang       
+`IE` Nrapendra Singh, Chunmiao Liu, Jing Shao            
+`Grammarian` Lanlan Deng   
+`Timer` Xin Feng    
+`Ah-counter` Fanrong Kong   
+`TTM` Maggie Li
