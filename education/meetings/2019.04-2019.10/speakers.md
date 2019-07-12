@@ -27,7 +27,7 @@
 ### 124, Children's Day (2019-05-31)
 `TT`  Lanlan Deng, Sarah Zhang, Massimo Albam, Ivana, Nrapendra Singh   
 `L1-2-1` Maggie Li -Emotion   
-`L1-2-2` Fang Yao - How to treat your sleep disorders
+`L1-2-2` Fang Yao - How to treat your sleep disorders   
 `L1-2-2` Jing Shao -Defense Mechanism   
 
 ### 125, demo (2019-06-14)
