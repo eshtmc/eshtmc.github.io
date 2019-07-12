@@ -19,3 +19,8 @@
 ### 125, Demo (2019-06-14)
 `Best Prepared Speech` Nrapendra   
 `Best Evaluator` Ivana   
+
+### 127, Calorie (2019-07-12)   
+`Best Table Topic Speech` Chunmiao Liu      
+`Best Prepared Speech` Michelle Jin   
+`Best Evaluator` Nrapendra Singh   
