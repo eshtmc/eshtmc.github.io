@@ -45,3 +45,8 @@
 `L1-1` Bingchen Guo - UK in Chinese Eyes   
 `L1-1` Michelle Jin - Change   
 `L1-2` Jenny Yu - The First 20 Hours  
+
+### 128, Business Trip (2019-07-26)
+`TT`  Hongyu Qi, Nrapendra Singh, Hong Wang, Sarah Zhang, Baowen, ASIF, Winnie Xie   
+`L1-1` Massimo Albani - Of Animals and Men   
+`L1-2-1` Michelle Jin - TBD   
