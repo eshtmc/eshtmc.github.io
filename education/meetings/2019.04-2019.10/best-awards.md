@@ -9,16 +9,16 @@
 `Best Table Topic Speech` Janice Deng   
 
 ### 123, 1 + 1 > 2 (2019-05-24)   
-`Best Table Topic Speech` Stanley Feng, Winnie Xie  
+`Best Table Topic Speech` Xin Feng, Winnie Xie  
 
 ### 124, Children's Day (2019-05-31)   
-`Best Table Topic Speech` Massimo   
+`Best Table Topic Speech` Massimo Albani   
 `Best Prepared Speech` Fang Yao   
 `Best Evaluator` Nrapendra Singh   
 
 ### 125, Demo (2019-06-14)
-`Best Prepared Speech` Nrapendra   
-`Best Evaluator` Ivana   
+`Best Prepared Speech` Nrapendra Singh   
+`Best Evaluator` Ivana Pazek   
 
 ### 127, Calorie (2019-07-12)   
 `Best Table Topic Speech` Chunmiao Liu      
