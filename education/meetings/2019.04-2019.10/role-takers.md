@@ -59,3 +59,12 @@
 `Timer` Xin Feng    
 `Ah-counter` Fanrong Kong   
 `TTM` Maggie Li
+
+### 128, Business Trip (2019-07-26)
+`TMD` Elvis Jiang   
+`GE` Xin Fen       
+`IE` Sarah Zhang, Fang Yao            
+`Grammarian` Chunmiao Liu   
+`Timer` Jing Shao    
+`Ah-counter` Lanlan Deng   
+`TTM` Hongyu Qi
