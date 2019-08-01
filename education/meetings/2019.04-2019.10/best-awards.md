@@ -24,3 +24,7 @@
 `Best Table Topic Speech` Chunmiao Liu      
 `Best Prepared Speech` Michelle Jin   
 `Best Evaluator` Nrapendra Singh   
+
+### 128, Business Trip (2019-07-26)   
+`Best Table Topic Speech` Nrapendra Singh      
+  
