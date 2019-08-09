@@ -50,3 +50,8 @@
 `TT`  Hongyu Qi, Nrapendra Singh, Hong Wang, Sarah Zhang, Baowen, ASIF, Winnie Xie   
 `L1-1` Massimo Albani - Of Animals and Men   
 `L1-2-1` Michelle Jin - TBD   
+
+### 129, Garbage Classification (2019-08-09)
+`TT`  Hongyu Qi, Lei Zhang, Hong Wang, Michelle Wang, Qijie Xu   
+`L1-1` Ivana Pazek - OMy life as Fiction   
+`L3-1` Nrapendra Singh - Eat the sprouts first   
