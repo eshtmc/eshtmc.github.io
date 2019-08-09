@@ -28,3 +28,5 @@
 ### 128, Business Trip (2019-07-26)   
 `Best Table Topic Speech` Nrapendra Singh      
   
+### 129, Garbage Classification (2019-08-09)   
+`Best Table Topic Speech` Lei Zhang 
