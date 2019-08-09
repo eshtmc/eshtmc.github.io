@@ -68,3 +68,12 @@
 `Timer` Jing Shao    
 `Ah-counter` Lanlan Deng   
 `TTM` Hongyu Qi   
+
+### 129, Garbage Classification (2019-08-09)
+`TMD` Elvis Jiang, Lei Zhang   
+`GE` Michelle Jin       
+`IE` Michelle Wang, Fang Yao            
+`Grammarian` Massimo Albani   
+`Timer` Jing Shao    
+`Ah-counter` Lanlan Deng   
+`TTM` Maggie Li   
