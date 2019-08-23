@@ -77,3 +77,11 @@
 `Timer` Jing Shao    
 `Ah-counter` Lanlan Deng   
 `TTM` Maggie Li   
+
+### 130, Power Nap (2019-08-23)
+`TMD` Xin Feng   
+`GE` Janice Deng       
+`IE` Sarah Zhang, Nrapendra Singh, Fang Yao, Jing Shao, Jenny Yu            
+`Grammarian` Massimo Albani   
+`Timer` Lei Zhang    
+ 
