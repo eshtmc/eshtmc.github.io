@@ -53,5 +53,12 @@
 
 ### 129, Garbage Classification (2019-08-09)
 `TT`  Hongyu Qi, Lei Zhang, Hong Wang, Michelle Wang, Qijie Xu   
-`L1-1` Ivana Pazek - OMy life as Fiction   
+`L1-1` Ivana Pazek - My life as Fiction   
 `L3-1` Nrapendra Singh - Eat the sprouts first   
+
+### 130, Power Nap (2019-08-23)
+`L1-2-1` Hong Wang - Letting go and be happy   
+`L1-2-2` Michelle Wang - The Moment   
+`L1-2-2` Michelle Jin - Choice   
+`L1-2-1` Lanlan Deng - My First Business Trip   
+`L4-1` Elvis Jiang - Let's Doge   
