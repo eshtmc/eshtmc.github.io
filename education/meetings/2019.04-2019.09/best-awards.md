@@ -30,3 +30,8 @@
   
 ### 129, Garbage Classification (2019-08-09)   
 `Best Table Topic Speech` Lei Zhang 
+
+### 130, Power Nap (2019-08-23)   
+`Best Prepared Speech` Michelle Jin   
+`Best Evaluator` Nrapendra Singh  
+
