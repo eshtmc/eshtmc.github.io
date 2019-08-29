@@ -1,9 +1,10 @@
 #!/bin/bash
 
-if [ -z $1 ]; then
-   TERM="2018.10-2019.03"
+PERSON="$1"
+if [ -z $2 ]; then
+   TERM="2019.04-2019.09"
 else
-   TERM="$1"
+   TERM="$2"
 fi
 
 DIR=`dirname $0`
@@ -90,15 +91,10 @@ function times {
    echo "* Roles: ${ROLES}"
 }
 
-TIME_STAMP=`date "+%Y-%m-%d"`
-MEMBER_LIST=`grep \#\#\#\#\# ${CLUB_MEMBERS}/list.md | awk '{print $2,$3}' | sort -d`
-echo "${MEMBER_LIST}" | while read PERSON;
-do
-        echo "#### "${PERSON}""
-        speeches "${PERSON}"
-        echo ""
-        roles "${PERSON}"
-        echo ""
-        times "${PERSON}"
-        echo ""
-done
+echo "#### "${PERSON}""
+speeches "${PERSON}"
+echo ""
+roles "${PERSON}"
+echo ""
+times "${PERSON}"
+echo ""
