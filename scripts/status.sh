@@ -29,8 +29,7 @@ function speeches {
                         if [ $SPEECH -lt $MEETING ]; then
                                 MEETING_INFO=`sed -n ${TIME}p ${LIST}`
                                 SPEECH_INFO=`sed -n ${SPEECH}p ${LIST} | awk '{print $1}'`
-                                echo "${SPEECH_INFO} in Meeting ${MEETING_INFO:4}"
-                                echo ""
+                                echo "${SPEECH_INFO} in Meeting ${MEETING_INFO:4}   "
                                 break
                         fi
                         TIME=${MEETING}
@@ -61,8 +60,7 @@ function roles {
                         if [ $ROLE -lt $MEETING ]; then
                                 MEETING_INFO=`sed -n ${TIME}p ${LIST}`
                                 ROLE_INFO=`sed -n ${ROLE}p ${LIST} | awk '{print $1}'`
-                                echo "${ROLE_INFO} in Meeting ${MEETING_INFO:4}"
-                                echo ""
+                                echo "${ROLE_INFO} in Meeting ${MEETING_INFO:4}   "
                                 break
                         fi
                         TIME=${MEETING}
@@ -76,10 +74,19 @@ function roles {
 function times {
    NAME="$1"
 
-   SPEECHES=`grep "${NAME}" ${CLUB_MEETINGS}/speakers.md | wc -l`
-   ROLES=`grep "${NAME}" ${CLUB_MEETINGS}/role-takers.md | wc -l`
+   if [ -f ${CLUB_MEETINGS}/attendance.html ]; then
+      if grep "${NAME}" ${CLUB_MEETINGS}/attendance.html &> /dev/null; then
+         ATTENDANCE=`grep "${NAME}" ${CLUB_MEETINGS}/attendance.html | awk -F"1" '{print NF-1}'`
+      else
+         ATTENDANCE=0
+      fi
+      echo "* Attendance: ${ATTENDANCE}"
+   fi
 
+   SPEECHES=`grep "${NAME}" ${CLUB_MEETINGS}/speakers.md | wc -l`
    echo "* Speeches: ${SPEECHES}"
+
+   ROLES=`grep "${NAME}" ${CLUB_MEETINGS}/role-takers.md | wc -l`
    echo "* Roles: ${ROLES}"
 }
 
@@ -87,8 +94,9 @@ TIME_STAMP=`date "+%Y-%m-%d"`
 MEMBER_LIST=`grep \#\#\#\#\# ${CLUB_MEMBERS}/list.md | awk '{print $2,$3}' | sort -d`
 echo "${MEMBER_LIST}" | while read PERSON;
 do
-        echo "##### "${PERSON}""
+        echo "#### "${PERSON}""
         speeches "${PERSON}"
+        echo ""
         roles "${PERSON}"
         echo ""
         times "${PERSON}"

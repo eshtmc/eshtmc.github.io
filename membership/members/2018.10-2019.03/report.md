@@ -1,533 +1,388 @@
-##### Alice Huang
-`P8` in Meeting 112, Marriage (2018.12.14)   
+#### Alice Huang
+`P8` in Meeting 112, Marriage (2018.12.14)      
 
 
+* Attendance: 3
 * Speeches:        1
 * Roles:        0
 
-##### Anne Lin
-`Timer` in Meeting 112, Marriage (2018.12.14)   
+#### Anne Lin
 
-`Ah-counter` in Meeting 115, Retrospection & Prospect (2019.01.25)   
+`Timer` in Meeting 112, Marriage (2018.12.14)      
+`Ah-counter` in Meeting 115, Retrospection & Prospect (2019.01.25)      
+`Timer` in Meeting 117, Self-Discovery (2019.03.1)      
 
-`Timer` in Meeting 117, Self-Discovery (2019.03.1)   
-
-
+* Attendance: 6
 * Speeches:        0
 * Roles:        3
 
-##### Chunmiao Liu
-`L1-1` in Meeting 119, Moments (2019.03.29)
+#### Chunmiao Liu
+`L1-1` in Meeting 119, Moments (2019.03.29)   
 
-`Grammarian` in Meeting 118, Persuasion (2019.03.15)   
+`Grammarian` in Meeting 118, Persuasion (2019.03.15)      
 
-
+* Attendance: 0
 * Speeches:        1
 * Roles:        1
 
-##### Dongchen Tang
-`TT` in Meeting 105, English (2018-09-07)
+#### Dongchen Tang
+`TT` in Meeting 105, English (2018-09-07)   
+`TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`TT` in Meeting 107, Emergency Handling (2018.10.12)      
+`TT` in Meeting 108, Imagine (2018.10.19)      
+`TT` in Meeting 109, Double Eleven (2018.11.02)      
+`TT` in Meeting 110, Luck Fish (2018.11.16)      
+`L1-4` in Meeting 110, Luck Fish (2018.11.16)      
+`TT` in Meeting 111, Appreciation (2018.11.30)      
+`TT` in Meeting 113, Presence of Mind (2018.12.28)      
+`TT` in Meeting 114, 5G (2019.01.11)      
+`L2-1` in Meeting 114, 5G (2019.01.11)      
+`L2-2` in Meeting 116, Motivation (2019.02.15)   
 
-`TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
+`GE` in Meeting 105, English (2018-09-07)   
+`GE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`GE` in Meeting 107, Emergency Handling (2018.10.12)      
+`Grammarian` in Meeting 108, Imagine (2018.10.19)      
+`IE` in Meeting 109, Double Eleven (2018.11.02)      
+`IE` in Meeting 111, Appreciation (2018.11.30)      
+`Ah-counter` in Meeting 112, Marriage (2018.12.14)      
+`GE` in Meeting 113, Presence of Mind (2018.12.28)      
+`IE` in Meeting 117, Self-Discovery (2019.03.1)      
+`IE` in Meeting 118, Persuasion (2019.03.15)      
+`IE` in Meeting 119, Moments (2019.03.29)      
 
-`TT` in Meeting 107, Emergency Handling (2018.10.12)   
-
-`TT` in Meeting 108, Imagine (2018.10.19)   
-
-`TT` in Meeting 109, Double Eleven (2018.11.02)   
-
-`TT` in Meeting 110, Luck Fish (2018.11.16)   
-
-`L1-4` in Meeting 110, Luck Fish (2018.11.16)   
-
-`TT` in Meeting 111, Appreciation (2018.11.30)   
-
-`TT` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`TT` in Meeting 114, 5G (2019.01.11)   
-
-`L2-1` in Meeting 114, 5G (2019.01.11)   
-
-`L2-2` in Meeting 116, Motivation (2019.02.15)
-
-`GE` in Meeting 105, English (2018-09-07)
-
-`GE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
-
-`GE` in Meeting 107, Emergency Handling (2018.10.12)   
-
-`Grammarian` in Meeting 108, Imagine (2018.10.19)   
-
-`IE` in Meeting 109, Double Eleven (2018.11.02)   
-
-`IE` in Meeting 111, Appreciation (2018.11.30)   
-
-`Ah-counter` in Meeting 112, Marriage (2018.12.14)   
-
-`GE` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`IE` in Meeting 117, Self-Discovery (2019.03.1)   
-
-`IE` in Meeting 118, Persuasion (2019.03.15)   
-
-`IE` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 10
 * Speeches:       12
 * Roles:       11
 
-##### Elvis Jiang
-`TT` in Meeting 105, English (2018-09-07)
+#### Elvis Jiang
+`TT` in Meeting 105, English (2018-09-07)   
+`L12` in Meeting 105, English (2018-09-07)   
+`L1-4` in Meeting 108, Imagine (2018.10.19)      
+`TT` in Meeting 111, Appreciation (2018.11.30)      
+`P2-1` in Meeting 111, Appreciation (2018.11.30)      
+`TT` in Meeting 113, Presence of Mind (2018.12.28)      
+`L2-3` in Meeting 113, Presence of Mind (2018.12.28)      
+`TT` in Meeting 116, Motivation (2019.02.15)   
+`L3-1` in Meeting 117, Self-Discovery (2019.03.1)   
+`L3-2` in Meeting 118, Persuasion (2019.03.15)   
 
-`L12` in Meeting 105, English (2018-09-07)
+`IE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`TMD` in Meeting 109, Double Eleven (2018.11.02)      
+`TTM` in Meeting 112, Marriage (2018.12.14)      
+`IE` in Meeting 114, 5G (2019.01.11)      
+`TMD` in Meeting 115, Retrospection & Prospect (2019.01.25)      
+`IE` in Meeting 116, Motivation (2019.02.15)      
+`TMD` in Meeting 119, Moments (2019.03.29)      
 
-`L1-4` in Meeting 108, Imagine (2018.10.19)   
-
-`TT` in Meeting 111, Appreciation (2018.11.30)   
-
-`P2-1` in Meeting 111, Appreciation (2018.11.30)   
-
-`TT` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`L2-3` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`TT` in Meeting 116, Motivation (2019.02.15)
-
-`L3-1` in Meeting 117, Self-Discovery (2019.03.1)
-
-`L3-2` in Meeting 118, Persuasion (2019.03.15)
-
-`IE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
-
-`TMD` in Meeting 109, Double Eleven (2018.11.02)   
-
-`TTM` in Meeting 112, Marriage (2018.12.14)   
-
-`IE` in Meeting 114, 5G (2019.01.11)   
-
-`TMD` in Meeting 115, Retrospection & Prospect (2019.01.25)   
-
-`IE` in Meeting 116, Motivation (2019.02.15)   
-
-`TMD` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 9
 * Speeches:       10
 * Roles:        7
 
-##### Fang Yao
-`Ah-Counter` in Meeting 105, English (2018-09-07)
+#### Fang Yao
 
-`TTM` in Meeting 115, Retrospection & Prospect (2019.01.25)   
+`Ah-Counter` in Meeting 105, English (2018-09-07)   
+`TTM` in Meeting 115, Retrospection & Prospect (2019.01.25)      
+`GE` in Meeting 116, Motivation (2019.02.15)      
+`TMD` in Meeting 117, Self-Discovery (2019.03.1)      
+`Grammarian` in Meeting 119, Moments (2019.03.29)      
 
-`GE` in Meeting 116, Motivation (2019.02.15)   
-
-`TMD` in Meeting 117, Self-Discovery (2019.03.1)   
-
-`Grammarian` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 0
 * Speeches:        0
 * Roles:        5
 
-##### Hong Wang
-`L11` in Meeting 105, English (2018-09-07)
+#### Hong Wang
+`L11` in Meeting 105, English (2018-09-07)   
 
-`TMD` in Meeting 107, Emergency Handling (2018.10.12)   
+`TMD` in Meeting 107, Emergency Handling (2018.10.12)      
+`Timer` in Meeting 110, Luck Fish (2018.11.16)      
+`Ah-counter` in Meeting 111, Appreciation (2018.11.30)      
 
-`Timer` in Meeting 110, Luck Fish (2018.11.16)   
-
-`Ah-counter` in Meeting 111, Appreciation (2018.11.30)   
-
-
+* Attendance: 8
 * Speeches:        1
 * Roles:        3
 
-##### Hongyu Qi
-`L1-1` in Meeting 114, 5G (2019.01.11)   
+#### Hongyu Qi
+`L1-1` in Meeting 114, 5G (2019.01.11)      
+`TT` in Meeting 115, Retrospection & Prospect (2019.01.25)    
+`L1-2` in Meeting 117, Self-Discovery (2019.03.1)   
 
-`TT` in Meeting 115, Retrospection & Prospect (2019.01.25) 
+`Timer` in Meeting 113, Presence of Mind (2018.12.28)      
+`IE` in Meeting 115, Retrospection & Prospect (2019.01.25)      
+`IE` in Meeting 118, Persuasion (2019.03.15)      
+`GE` in Meeting 119, Moments (2019.03.29)      
 
-`L1-2` in Meeting 117, Self-Discovery (2019.03.1)
-
-`Timer` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`IE` in Meeting 115, Retrospection & Prospect (2019.01.25)   
-
-`IE` in Meeting 118, Persuasion (2019.03.15)   
-
-`GE` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 4
 * Speeches:        3
 * Roles:        4
 
-##### Huihui Jiang
-`TT` in Meeting 105, English (2018-09-07)
+#### Huihui Jiang
+`TT` in Meeting 105, English (2018-09-07)   
+`L1-1` in Meeting 116, Motivation (2019.02.15)   
+`L1-2` in Meeting 118, Persuasion (2019.03.15)   
 
-`L1-1` in Meeting 116, Motivation (2019.02.15)
+`Timer` in Meeting 107, Emergency Handling (2018.10.12)      
+`Ah-counter` in Meeting 108, Imagine (2018.10.19)      
+`Grammarian` in Meeting 109, Double Eleven (2018.11.02)      
+`TTM` in Meeting 110, Luck Fish (2018.11.16)      
+`TMD` in Meeting 112, Marriage (2018.12.14)      
+`GE` in Meeting 117, Self-Discovery (2019.03.1)      
+`IE` in Meeting 119, Moments (2019.03.29)      
 
-`L1-2` in Meeting 118, Persuasion (2019.03.15)
-
-`Timer` in Meeting 107, Emergency Handling (2018.10.12)   
-
-`Ah-counter` in Meeting 108, Imagine (2018.10.19)   
-
-`Grammarian` in Meeting 109, Double Eleven (2018.11.02)   
-
-`TTM` in Meeting 110, Luck Fish (2018.11.16)   
-
-`TMD` in Meeting 112, Marriage (2018.12.14)   
-
-`GE` in Meeting 117, Self-Discovery (2019.03.1)   
-
-`IE` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 9
 * Speeches:        3
 * Roles:        7
 
-##### Jane Gong
-`IE` in Meeting 105, English (2018-09-07)
+#### Jane Gong
 
-`GE` in Meeting 115, Retrospection & Prospect (2019.01.25)   
+`IE` in Meeting 105, English (2018-09-07)   
+`GE` in Meeting 115, Retrospection & Prospect (2019.01.25)      
 
-
+* Attendance: 2
 * Speeches:        0
 * Roles:        2
 
-##### Jenny Yu
-`L1-2` in Meeting 107, Emergency Handling (2018.10.12)   
+#### Jenny Yu
+`L1-2` in Meeting 107, Emergency Handling (2018.10.12)      
+`TT` in Meeting 108, Imagine (2018.10.19)      
 
-`TT` in Meeting 108, Imagine (2018.10.19)   
+`Ah-counter` in Meeting 107, Emergency Handling (2018.10.12)      
+`TMD` in Meeting 108, Imagine (2018.10.19)      
+`Timer` in Meeting 109, Double Eleven (2018.11.02)      
+`Ah-counter` in Meeting 113, Presence of Mind (2018.12.28)      
+`Timer` in Meeting 114, 5G (2019.01.11)      
+`TTM` in Meeting 116, Motivation (2019.02.15)      
+`TMD` in Meeting 118, Persuasion (2019.03.15)      
 
-`Ah-counter` in Meeting 107, Emergency Handling (2018.10.12)   
-
-`TMD` in Meeting 108, Imagine (2018.10.19)   
-
-`Timer` in Meeting 109, Double Eleven (2018.11.02)   
-
-`Ah-counter` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`Timer` in Meeting 114, 5G (2019.01.11)   
-
-`TTM` in Meeting 116, Motivation (2019.02.15)   
-
-`TMD` in Meeting 118, Persuasion (2019.03.15)   
-
-
+* Attendance: 8
 * Speeches:        2
 * Roles:        7
 
-##### Jing Shao
-`TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
+#### Jing Shao
+`TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`TT` in Meeting 108, Imagine (2018.10.19)      
+`L1-1` in Meeting 117, Self-Discovery (2019.03.1)   
 
-`TT` in Meeting 108, Imagine (2018.10.19)   
+`Timer` in Meeting 111, Appreciation (2018.11.30)      
+`Ah-counter` in Meeting 114, 5G (2019.01.11)      
+`Grammarian` in Meeting 115, Retrospection & Prospect (2019.01.25)      
 
-`L1-1` in Meeting 117, Self-Discovery (2019.03.1)
-
-`Timer` in Meeting 111, Appreciation (2018.11.30)   
-
-`Ah-counter` in Meeting 114, 5G (2019.01.11)   
-
-`Grammarian` in Meeting 115, Retrospection & Prospect (2019.01.25)   
-
-
+* Attendance: 6
 * Speeches:        3
 * Roles:        3
 
-##### Jony Zheng
-`TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
+#### Jony Zheng
+`TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
 
-`IE` in Meeting 108, Imagine (2018.10.19)   
+`IE` in Meeting 108, Imagine (2018.10.19)      
+`TTM` in Meeting 111, Appreciation (2018.11.30)      
+`IE` in Meeting 113, Presence of Mind (2018.12.28)      
 
-`TTM` in Meeting 111, Appreciation (2018.11.30)   
-
-`IE` in Meeting 113, Presence of Mind (2018.12.28)   
-
-
+* Attendance: 5
 * Speeches:        1
 * Roles:        3
 
-##### Lanlan Deng
-`TT` in Meeting 109, Double Eleven (2018.11.02)   
+#### Lanlan Deng
+`TT` in Meeting 109, Double Eleven (2018.11.02)      
+`TT` in Meeting 115, Retrospection & Prospect (2019.01.25)    
 
-`TT` in Meeting 115, Retrospection & Prospect (2019.01.25) 
+`Ah-counter` in Meeting 118, Persuasion (2019.03.15)      
+`Timer` in Meeting 119, Moments (2019.03.29)      
 
-`Ah-counter` in Meeting 118, Persuasion (2019.03.15)   
-
-`Timer` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 5
 * Speeches:        2
 * Roles:        2
 
-##### Lei Zhang
-`TT` in Meeting 109, Double Eleven (2018.11.02)   
+#### Lei Zhang
+`TT` in Meeting 109, Double Eleven (2018.11.02)      
+`TT` in Meeting 114, 5G (2019.01.11)      
+`TT` in Meeting 115, Retrospection & Prospect (2019.01.25)    
+`TT` in Meeting 119, Moments (2019.03.29)   
+`L1-1` in Meeting 119, Moments (2019.03.29)   
 
-`TT` in Meeting 114, 5G (2019.01.11)   
+`Timer` in Meeting 116, Motivation (2019.02.15)      
+`Ah-counter` in Meeting 117, Self-Discovery (2019.03.1)      
 
-`TT` in Meeting 115, Retrospection & Prospect (2019.01.25) 
-
-`TT` in Meeting 119, Moments (2019.03.29)
-
-`L1-1` in Meeting 119, Moments (2019.03.29)
-
-`Timer` in Meeting 116, Motivation (2019.02.15)   
-
-`Ah-counter` in Meeting 117, Self-Discovery (2019.03.1)   
-
-
+* Attendance: 4
 * Speeches:        5
 * Roles:        2
 
-##### Maggie Li
-`TT` in Meeting 109, Double Eleven (2018.11.02)   
+#### Maggie Li
+`TT` in Meeting 109, Double Eleven (2018.11.02)      
+`TT` in Meeting 113, Presence of Mind (2018.12.28)      
 
-`TT` in Meeting 113, Presence of Mind (2018.12.28)   
+`Grammarian` in Meeting 114, 5G (2019.01.11)      
+`Timer` in Meeting 115, Retrospection & Prospect (2019.01.25)      
+`Ah-counter` in Meeting 116, Motivation (2019.02.15)      
+`Grammarian` in Meeting 117, Self-Discovery (2019.03.1)      
+`Timer` in Meeting 118, Persuasion (2019.03.15)      
+`TTM` in Meeting 119, Moments (2019.03.29)      
 
-`Grammarian` in Meeting 114, 5G (2019.01.11)   
-
-`Timer` in Meeting 115, Retrospection & Prospect (2019.01.25)   
-
-`Ah-counter` in Meeting 116, Motivation (2019.02.15)   
-
-`Grammarian` in Meeting 117, Self-Discovery (2019.03.1)   
-
-`Timer` in Meeting 118, Persuasion (2019.03.15)   
-
-`TTM` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 6
 * Speeches:        2
 * Roles:        6
 
-##### Michelle Hua
-`CC-P8` in Meeting 108, Imagine (2018.10.19)   
+#### Michelle Hua
+`CC-P8` in Meeting 108, Imagine (2018.10.19)      
+`CC-9` in Meeting 116, Motivation (2019.02.15)   
 
-`CC-9` in Meeting 116, Motivation (2019.02.15)
+`IE` in Meeting 110, Luck Fish (2018.11.16)      
+`GE` in Meeting 114, 5G (2019.01.11)      
 
-`IE` in Meeting 110, Luck Fish (2018.11.16)   
-
-`GE` in Meeting 114, 5G (2019.01.11)   
-
-
+* Attendance: 5
 * Speeches:        2
 * Roles:        2
 
-##### Michelle Jin
-`AC1-5` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
+#### Michelle Jin
+`AC1-5` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`AC-1` in Meeting 116, Motivation (2019.02.15)   
+`AC2` in Meeting 117, Self-Discovery (2019.03.1)   
 
-`AC-1` in Meeting 116, Motivation (2019.02.15)
+`Timer` in Meeting 108, Imagine (2018.10.19)      
+`GE` in Meeting 109, Double Eleven (2018.11.02)      
+`GE` in Meeting 110, Luck Fish (2018.11.16)      
+`GE` in Meeting 112, Marriage (2018.12.14)      
+`IE` in Meeting 113, Presence of Mind (2018.12.28)      
+`IE` in Meeting 114, 5G (2019.01.11)      
 
-`AC2` in Meeting 117, Self-Discovery (2019.03.1)
-
-`Timer` in Meeting 108, Imagine (2018.10.19)   
-
-`GE` in Meeting 109, Double Eleven (2018.11.02)   
-
-`GE` in Meeting 110, Luck Fish (2018.11.16)   
-
-`GE` in Meeting 112, Marriage (2018.12.14)   
-
-`IE` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`IE` in Meeting 114, 5G (2019.01.11)   
-
-
+* Attendance: 8
 * Speeches:        4
 * Roles:        6
 
-##### Michelle Wang
-`TT` in Meeting 105, English (2018-09-07)
+#### Michelle Wang
+`TT` in Meeting 105, English (2018-09-07)   
+`L1-2` in Meeting 107, Emergency Handling (2018.10.12)      
+`TT` in Meeting 109, Double Eleven (2018.11.02)      
+`Share` in Meeting 110, Luck Fish (2018.11.16)      
+`TT` in Meeting 112, Marriage (2018.12.14)      
+`TT` in Meeting 115, Retrospection & Prospect (2019.01.25)    
 
-`L1-2` in Meeting 107, Emergency Handling (2018.10.12)   
+`IE` in Meeting 105, English (2018-09-07)   
+`IE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`IE` in Meeting 108, Imagine (2018.10.19)      
+`IE` in Meeting 109, Double Eleven (2018.11.02)      
+`GE` in Meeting 111, Appreciation (2018.11.30)      
+`IE` in Meeting 112, Marriage (2018.12.14)      
+`TTM` in Meeting 114, 5G (2019.01.11)      
+`Grammarian` in Meeting 116, Motivation (2019.02.15)      
+`IE` in Meeting 117, Self-Discovery (2019.03.1)      
 
-`TT` in Meeting 109, Double Eleven (2018.11.02)   
-
-`Share` in Meeting 110, Luck Fish (2018.11.16)   
-
-`TT` in Meeting 112, Marriage (2018.12.14)   
-
-`TT` in Meeting 115, Retrospection & Prospect (2019.01.25) 
-
-`IE` in Meeting 105, English (2018-09-07)
-
-`IE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
-
-`IE` in Meeting 108, Imagine (2018.10.19)   
-
-`IE` in Meeting 109, Double Eleven (2018.11.02)   
-
-`GE` in Meeting 111, Appreciation (2018.11.30)   
-
-`IE` in Meeting 112, Marriage (2018.12.14)   
-
-`TTM` in Meeting 114, 5G (2019.01.11)   
-
-`Grammarian` in Meeting 116, Motivation (2019.02.15)   
-
-`IE` in Meeting 117, Self-Discovery (2019.03.1)   
-
-
+* Attendance: 9
 * Speeches:        6
 * Roles:        9
 
-##### Nrapendra Singh
-`TT` in Meeting 105, English (2018-09-07)
+#### Nrapendra Singh
+`TT` in Meeting 105, English (2018-09-07)   
+`L1-2` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`TT` in Meeting 111, Appreciation (2018.11.30)      
+`TT` in Meeting 112, Marriage (2018.12.14)      
+`L1-2-2` in Meeting 112, Marriage (2018.12.14)      
+`L2-3` in Meeting 115, Retrospection & Prospect (2019.01.25)    
+`L1-3` in Meeting 117, Self-Discovery (2019.03.1)   
 
-`L1-2` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
+`Grammarian` in Meeting 105, English (2018-09-07)   
+`Grammarian` in Meeting 111, Appreciation (2018.11.30)      
+`TTM` in Meeting 113, Presence of Mind (2018.12.28)      
+`IE` in Meeting 114, 5G (2019.01.11)      
 
-`TT` in Meeting 111, Appreciation (2018.11.30)   
-
-`TT` in Meeting 112, Marriage (2018.12.14)   
-
-`L1-2-2` in Meeting 112, Marriage (2018.12.14)   
-
-`L2-3` in Meeting 115, Retrospection & Prospect (2019.01.25) 
-
-`L1-3` in Meeting 117, Self-Discovery (2019.03.1)
-
-`Grammarian` in Meeting 105, English (2018-09-07)
-
-`Grammarian` in Meeting 111, Appreciation (2018.11.30)   
-
-`TTM` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`IE` in Meeting 114, 5G (2019.01.11)   
-
-
+* Attendance: 6
 * Speeches:        7
 * Roles:        4
 
-##### Qingzhen Deng
+#### Qingzhen Deng
 
+
+* Attendance: 2
 * Speeches:        0
 * Roles:        0
 
-##### Sarah Zhang
-`CC7` in Meeting 113, Presence of Mind (2018.12.28)   
+#### Sarah Zhang
+`CC7` in Meeting 113, Presence of Mind (2018.12.28)      
 
-`IE` in Meeting 116, Motivation (2019.02.15)   
+`IE` in Meeting 116, Motivation (2019.02.15)      
+`IE` in Meeting 117, Self-Discovery (2019.03.1)      
+`IE` in Meeting 119, Moments (2019.03.29)      
 
-`IE` in Meeting 117, Self-Discovery (2019.03.1)   
-
-`IE` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 5
 * Speeches:        1
 * Roles:        3
 
-##### Siyuan Jia
-`CC8` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
+#### Siyuan Jia
+`CC8` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`CC-P9` in Meeting 108, Imagine (2018.10.19)      
 
-`CC-P9` in Meeting 108, Imagine (2018.10.19)   
+`TTM` in Meeting 105, English (2018-09-07)   
+`Ah-counter` in Meeting 109, Double Eleven (2018.11.02)      
 
-`TTM` in Meeting 105, English (2018-09-07)
-
-`Ah-counter` in Meeting 109, Double Eleven (2018.11.02)   
-
-
+* Attendance: 0
 * Speeches:        2
 * Roles:        2
 
-##### Taowen Zhang
-`TT` in Meeting 108, Imagine (2018.10.19)   
+#### Taowen Zhang
+`TT` in Meeting 108, Imagine (2018.10.19)      
+`TT` in Meeting 112, Marriage (2018.12.14)      
 
-`TT` in Meeting 112, Marriage (2018.12.14)   
+`Timer` in Meeting 105, English (2018-09-07)   
+`IE` in Meeting 108, Imagine (2018.10.19)      
+`IE` in Meeting 112, Marriage (2018.12.14)      
+`TMD` in Meeting 113, Presence of Mind (2018.12.28)      
+`IE` in Meeting 117, Self-Discovery (2019.03.1)      
 
-`Timer` in Meeting 105, English (2018-09-07)
-
-`IE` in Meeting 108, Imagine (2018.10.19)   
-
-`IE` in Meeting 112, Marriage (2018.12.14)   
-
-`TMD` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`IE` in Meeting 117, Self-Discovery (2019.03.1)   
-
-
+* Attendance: 9
 * Speeches:        2
 * Roles:        5
 
-##### Wujie Zhang
-`TT` in Meeting 112, Marriage (2018.12.14)   
+#### Wujie Zhang
+`TT` in Meeting 112, Marriage (2018.12.14)      
 
-`TTM` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
+`TTM` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`TTM` in Meeting 109, Double Eleven (2018.11.02)      
+`Grammarian` in Meeting 110, Luck Fish (2018.11.16)      
+`Grammarian` in Meeting 112, Marriage (2018.12.14)      
 
-`TTM` in Meeting 109, Double Eleven (2018.11.02)   
-
-`Grammarian` in Meeting 110, Luck Fish (2018.11.16)   
-
-`Grammarian` in Meeting 112, Marriage (2018.12.14)   
-
-
+* Attendance: 6
 * Speeches:        1
 * Roles:        4
 
-##### Xin Feng
-`TT` in Meeting 105, English (2018-09-07)
+#### Xin Feng
+`TT` in Meeting 105, English (2018-09-07)   
+`AC5` in Meeting 105, English (2018-09-07)   
+`TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`TT` in Meeting 107, Emergency Handling (2018.10.12)      
+`TT` in Meeting 109, Double Eleven (2018.11.02)      
+`AC-11` in Meeting 109, Double Eleven (2018.11.02)      
+`AC-2` in Meeting 111, Appreciation (2018.11.30)      
+`TT` in Meeting 112, Marriage (2018.12.14)      
+`TT` in Meeting 113, Presence of Mind (2018.12.28)      
+`AC3` in Meeting 113, Presence of Mind (2018.12.28)      
+`TT` in Meeting 116, Motivation (2019.02.15)   
+`TT` in Meeting 119, Moments (2019.03.29)   
 
-`AC5` in Meeting 105, English (2018-09-07)
+`IE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`GE` in Meeting 108, Imagine (2018.10.19)      
+`TMD` in Meeting 110, Luck Fish (2018.11.16)      
+`IE` in Meeting 112, Marriage (2018.12.14)      
+`TMD` in Meeting 114, 5G (2019.01.11)      
+`TMD` in Meeting 116, Motivation (2019.02.15)      
+`IE` in Meeting 117, Self-Discovery (2019.03.1)      
+`GE` in Meeting 118, Persuasion (2019.03.15)      
+`IE` in Meeting 119, Moments (2019.03.29)      
 
-`TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
-
-`TT` in Meeting 107, Emergency Handling (2018.10.12)   
-
-`TT` in Meeting 109, Double Eleven (2018.11.02)   
-
-`AC-11` in Meeting 109, Double Eleven (2018.11.02)   
-
-`AC-2` in Meeting 111, Appreciation (2018.11.30)   
-
-`TT` in Meeting 112, Marriage (2018.12.14)   
-
-`TT` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`AC3` in Meeting 113, Presence of Mind (2018.12.28)   
-
-`TT` in Meeting 116, Motivation (2019.02.15)
-
-`TT` in Meeting 119, Moments (2019.03.29)
-
-`IE` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
-
-`GE` in Meeting 108, Imagine (2018.10.19)   
-
-`TMD` in Meeting 110, Luck Fish (2018.11.16)   
-
-`IE` in Meeting 112, Marriage (2018.12.14)   
-
-`TMD` in Meeting 114, 5G (2019.01.11)   
-
-`TMD` in Meeting 116, Motivation (2019.02.15)   
-
-`IE` in Meeting 117, Self-Discovery (2019.03.1)   
-
-`GE` in Meeting 118, Persuasion (2019.03.15)   
-
-`IE` in Meeting 119, Moments (2019.03.29)   
-
-
+* Attendance: 10
 * Speeches:       12
 * Roles:        9
 
-##### Yi Fang
-`L1-2` in Meeting 109, Double Eleven (2018.11.02)   
+#### Yi Fang
+`L1-2` in Meeting 109, Double Eleven (2018.11.02)      
+`L1-2` in Meeting 115, Retrospection & Prospect (2019.01.25)    
+`L1-3` in Meeting 119, Moments (2019.03.29)   
 
-`L1-2` in Meeting 115, Retrospection & Prospect (2019.01.25) 
+`IE` in Meeting 105, English (2018-09-07)   
+`Grammarian` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
+`TTM` in Meeting 108, Imagine (2018.10.19)      
+`IE` in Meeting 116, Motivation (2019.02.15)      
 
-`L1-3` in Meeting 119, Moments (2019.03.29)
-
-`IE` in Meeting 105, English (2018-09-07)
-
-`Grammarian` in Meeting 106, The Mid-Autumn Festival (2018-09-21)  
-
-`TTM` in Meeting 108, Imagine (2018.10.19)   
-
-`IE` in Meeting 116, Motivation (2019.02.15)   
-
-
+* Attendance: 8
 * Speeches:        3
 * Roles:        4
 
