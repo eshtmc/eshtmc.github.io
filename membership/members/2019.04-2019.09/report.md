@@ -28,7 +28,7 @@
 `IE` in Meeting 127, Calorie (2019-07-12)   
 `Grammarian` in Meeting 128, Business Trip (2019-07-26)   
 
-* Attendance: 0
+* Attendance: 6
 * Speeches:        2
 * Roles:        4
 
@@ -104,7 +104,7 @@
 `TMD` in Meeting 122, My mum (2019-05-10)   
 `TTM` in Meeting 128, Business Trip (2019-07-26)   
 
-* Attendance: 2
+* Attendance: 5
 * Speeches:        4
 * Roles:        3
 
@@ -225,7 +225,7 @@
 
 `TMD` in Meeting 120, Outing (2019-04-12)   
 
-* Attendance: 0
+* Attendance: 1
 * Speeches:        0
 * Roles:        1
 
@@ -256,7 +256,7 @@
 `IE` in Meeting 126, Dance (2019-06-21)   
 `IE` in Meeting 129, Garbage Classification (2019-08-09)   
 
-* Attendance: 7
+* Attendance: 8
 * Speeches:        2
 * Roles:        7
 
@@ -278,7 +278,7 @@
 #### Qingzhen Deng
 
 
-* Attendance: 5
+* Attendance: 0
 * Speeches:        0
 * Roles:        0
 
@@ -303,7 +303,7 @@
 
 `IE` in Meeting 120, Outing (2019-04-12)   
 
-* Attendance: 0
+* Attendance: 1
 * Speeches:        0
 * Roles:        1
 
