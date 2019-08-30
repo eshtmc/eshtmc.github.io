@@ -134,6 +134,18 @@
 * Speeches:        0
 * Roles:        0
 
+#### Janice Deng
+`TT` in Meeting 122, My mum (2019-05-10)   
+
+`IE` in Meeting 121, How to be happy at work (2019-04-26)   
+`Timer` in Meeting 122, My mum (2019-05-10)   
+`IE` in Meeting 126, Dance (2019-06-21)   
+`GE` in Meeting 130, Power Nap (2019-08-23)   
+
+* Attendance: 5
+* Speeches:        1
+* Roles:        4
+
 #### Jenny Yu
 `TT` in Meeting 121, How to be happy at work (2019-04-26)   
 `TT` in Meeting 126, Dance (2019-06-21)   
@@ -274,13 +286,6 @@
 * Attendance: 8
 * Speeches:        5
 * Roles:        3
-
-#### Qingzhen Deng
-
-
-* Attendance: 0
-* Speeches:        0
-* Roles:        0
 
 #### Sarah Zhang
 `TT` in Meeting 122, My mum (2019-05-10)   
