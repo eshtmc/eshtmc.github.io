@@ -85,3 +85,10 @@
 `Grammarian` Massimo Albani   
 `Timer` Lei Zhang    
  
+### 131, Superstition (2019-09-06)  
+`TMD` Michelle Wang     
+`GE` Janice Deng       
+`IE` Hong Wang, Lanlan Deng, Maggie Li            
+`Grammarian` Elvis Jiang     
+`Timer` Ivana Pazek   
+`Ah-counter` Anne Lin   
