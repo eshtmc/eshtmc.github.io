@@ -62,3 +62,9 @@
 `L1-2-2` Michelle Jin - Choice   
 `L1-2-1` Lanlan Deng - My First Business Trip   
 `L4-1` Elvis Jiang - Let's Doge   
+
+
+### 131, Superstition (2019-09-06)
+`L2-1` Jenny Yu - It's no big deal to fail   
+`L1-3` Jing Shao - How much is happiness     
+`L1-2-1` Wujie Zhang - Anxiety   
