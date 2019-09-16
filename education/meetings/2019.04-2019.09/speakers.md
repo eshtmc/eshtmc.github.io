@@ -65,6 +65,7 @@
 
 
 ### 131, Superstition (2019-09-06)
+`TT`  Michelle Wang, Dongchen tang, Xin Feng, Hongyu Qi, Maggie Li   
 `L2-1` Jenny Yu - It's no big deal to fail   
 `L1-3` Jing Shao - How much is happiness     
 `L1-2-1` Wujie Zhang - Anxiety   
