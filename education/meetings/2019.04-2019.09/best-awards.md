@@ -35,3 +35,7 @@
 `Best Prepared Speech` Michelle Jin   
 `Best Evaluator` Nrapendra Singh  
 
+### 131, Superstition (2019-09-06)   
+`Best Table Topic Speech` Xin Feng   
+`Best Prepared Speech` Jing Shao   
+`Best Evaluator` Hong Wang   
