@@ -63,9 +63,14 @@
 `L1-2-1` Lanlan Deng - My First Business Trip   
 `L4-1` Elvis Jiang - Let's Doge   
 
-
 ### 131, Superstition (2019-09-06)
 `TT`  Michelle Wang, Dongchen tang, Xin Feng, Hongyu Qi, Maggie Li   
 `L2-1` Jenny Yu - It's no big deal to fail   
 `L1-3` Jing Shao - How much is happiness     
 `L1-2-1` Wujie Zhang - Anxiety   
+
+### 132, Mid-Autumn Festival (2019-09-20)
+`TT`  Maggie Li, Fanrong Kong, Xin Feng, Elvis Jiang, Janice Deng, Saran Zhang   
+`L1-2-1` Massimo Albani - Serendipity   
+`L1-2-1` Ivana Pazek - The power of Intention     
+`L1-3` Michelle Wang - Meditation    
