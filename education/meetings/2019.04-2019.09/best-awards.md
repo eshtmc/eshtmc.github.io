@@ -38,4 +38,9 @@
 ### 131, Superstition (2019-09-06)   
 `Best Table Topic Speech` Xin Feng   
 `Best Prepared Speech` Jing Shao   
-`Best Evaluator` Hong Wang   
+`Best Evaluator` Hong Wang    
+
+### 132, Mid-Autumn Festival (2019-09-20)   
+`Best Table Topic Speech` Fanrong Kong   
+`Best Prepared Speech` Massimo Albani      
+`Best Evaluator` Xin Feng     
