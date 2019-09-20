@@ -3,7 +3,7 @@
 DIR=`dirname $0`
 
 if [ -z $1 ]; then
-   TERM="2018.10-2019.03"
+   TERM="2019.04-2019.09"
 else
    TERM="$1"
 fi
