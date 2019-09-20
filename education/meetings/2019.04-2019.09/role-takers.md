@@ -92,10 +92,12 @@
 `Grammarian` Elvis Jiang     
 `Timer` Ivana Pazek   
 `Ah-counter` Anne Lin   
+`TTM` Nrapendra Singh   
 
 ### 132, Mid-Autumn Festival (2019-09-20)  
 `TMD` Dongchen Tang     
 `GE` Maggie Li       
 `IE` Nrapendra Singh, Lanlan Deng, Xin Feng          
 `Timer` Jing Shao   
-`Ah-counter` Xin Feng     
+`Ah-counter` Xin Feng   
+`TTM` Fang Yao
