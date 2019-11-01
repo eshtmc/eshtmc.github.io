@@ -6,6 +6,7 @@
 `Grammarian` Massimo Albani    
 `Timer` Mohammed Asif    
 `Ah-counter` Ivy Dai   
+`Meeting Manager` Ivana Pazek
 
 ### 134, Situational Conversation (2019-10-18)
 `TMD` Xin Feng   
@@ -21,4 +22,5 @@
 `IE` Lanlan Deng, Jenny Yu, Nrapendra Singh, Michelle Jin, Hong Wang      
 `Timer` Massimo Albani    
 `Grammarian` Chunmiao Liu   
-`Ah-counter` Ivy Dai     
+`Ah-counter` Ivy Dai  
+`Meeting Manager` Lanlan Deng
