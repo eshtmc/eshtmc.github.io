@@ -6,7 +6,7 @@
 `Best Evaluator` Sarah Zhang   
 
 ### 122, My Mum (2019-05-10)
-`Best Table Topic Speech` Janice Deng   
+`Best Table Topic Speech` Qingzhen Deng   
 
 ### 123, 1 + 1 > 2 (2019-05-24)   
 `Best Table Topic Speech` Xin Feng, Winnie Xie  

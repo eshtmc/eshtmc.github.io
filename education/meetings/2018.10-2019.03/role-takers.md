@@ -22,7 +22,7 @@
 `IE` Jun Liu,Ronaldo Huang   
 `TTM` Yayun Sun   
 `GE` Dongchen Tang   
-`Grammarian` Yao Fang   
+`Grammarian` Fang Yao   
 `Ah-counter` Jenny Yu   
 `TMD` Hong Wang   
 `Timer` Huihui Jiang   
@@ -50,12 +50,12 @@
 `GE` Michelle Jin   
 `Timer` Hong Wang   
 `IE` Michelle Hua   
-`Ah-counter` Janice Deng   
+`Ah-counter` Qingzhen Deng   
 `Grammarian` Wujie Zhang   
 `TTM` Huihui Jiang   
 
 ### 111, Appreciation (2018.11.30)   
-`TMD` Yao Fang   
+`TMD` Fang Yao   
 `GE` Michelle Wang   
 `Timer` Jing Shao   
 `IE` Dongchen Tang   
@@ -74,7 +74,7 @@
 
 ### 113, Presence of Mind (2018.12.28)   
 `IE` Michelle Jin,Jony Zheng,Stefanie   
-`Grammarian` Yao Fang   
+`Grammarian` Fang Yao   
 `Ah-counter` Jenny Yu   
 `TTM` Nrapendra Singh   
 `GE` Dongchen Tang   

@@ -18,7 +18,7 @@
 `L1-2` Michelle Wang-Dancing with Anxiety   
 
 ### 108, Imagine (2018.10.19)   
-`TT` Jenny Yu,Dongchen Tang,Taowen Zhang,Yao Fang,Jing Shao  
+`TT` Jenny Yu,Dongchen Tang,Taowen Zhang,Fang Yao,Jing Shao  
 `CC-P8` Michelle Hua-The power of psychological hint   
 `CC-P9` Siyuan Jia-Let's learn making bread   
 `L1-4` Elvis Jiang-Deja vu   
@@ -29,18 +29,18 @@
 `AC-11` Xin Feng-Hackathon for Dummies   
 
 ### 110, Luck Fish (2018.11.16)   
-`TT` eshtmc,Janice Deng,Dongchen Tang,Cindy Huang  
+`TT` Qingzhen Deng,Dongchen Tang,Cindy Huang  
 `L1-4` Dongchen Tang-Paradoxical Intention   
 `Share` Michelle Wang-学习老田TBD11周年庆典的分享---幽默，生命中的调料   
 
 ### 111, Appreciation (2018.11.30)   
-`TT` eshtmc,Elvis Jiang,Dongchen Tang,Nrapendra Singh  
+`TT` Elvis Jiang,Dongchen Tang,Nrapendra Singh  
 `P2-1` Elvis Jiang-My Communication Style   
 `AC-2` Xin Feng-Reading.im   
 
 ### 112, Marriage (2018.12.14)   
 `TT` Wujie Zhang,Michelle Wang,Xin Feng,Taowen Zhang,Nrapendra Singh  
-`L1-2-1` Yao Fang-My favorite TV character   
+`L1-2-1` Fang Yao-My favorite TV character   
 `L1-2-2` Nrapendra Singh-Listening is a fine Art   
 `P8` Alice Huang-Communicate with no judgement   
 

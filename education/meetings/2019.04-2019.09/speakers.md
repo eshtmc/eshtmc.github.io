@@ -15,7 +15,7 @@
 `Sharing Speech` Wendy Wu - How to be happy at work   
 
 ### 122, My mum (2019-05-10)
-`TT`  Samvel, Janice Deng, Elvis Jiang, Sarah Zhang, Bingchen Guo, Lanlan Deng   
+`TT`  Samvel, Qingzhen Deng, Elvis Jiang, Sarah Zhang, Bingchen Guo, Lanlan Deng   
 `L1-2` Xin Feng - Yogo Man   
 `P9` Sarah Zhang - Spread the spark of a Toastmaster     
 
@@ -70,7 +70,7 @@
 `L1-2-1` Wujie Zhang - Anxiety   
 
 ### 132, Mid-Autumn Festival (2019-09-20)
-`TT`  Maggie Li, Fanrong Kong, Xin Feng, Elvis Jiang, Janice Deng, Saran Zhang   
+`TT`  Maggie Li, Fanrong Kong, Xin Feng, Elvis Jiang, Qingzhen Deng, Saran Zhang   
 `L1-2-1` Massimo Albani - Serendipity   
 `L1-2-1` Ivana Pazek - The power of Intention     
 `L1-3` Michelle Wang - Meditation    

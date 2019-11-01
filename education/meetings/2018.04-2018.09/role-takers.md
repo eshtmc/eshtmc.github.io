@@ -4,7 +4,7 @@
 `GE` Hongyu Qi   
 `IE` Jane Gong, Yi Fang, Xin Feng   
 `Timer` Wujie Zhang   
-`Ah-Counter` Yao Fang   
+`Ah-Counter` Fang Yao   
 
 ### 096, Self-Reflection (2018-04-27)
 `TMD` Qingzhen Deng    
@@ -20,7 +20,7 @@
 `TTM` Dongchen Tang   
 `GE` Taowen Zhang   
 `IE` Michelle Wang, Michelle Jin   
-`Grammarian` Yao Fang   
+`Grammarian` Fang Yao   
 `Timer` Jun Liu   
 `Ah-Counter` Qingzhen Deng  
 

@@ -1,10 +1,6 @@
-##### Jane Gong
-##### Michelle Wang
 ##### Hongyu Qi
 ##### Maggie Li
-##### Huihui Jiang
 ##### Ivana Pazek
-##### Michelle Hua
 ##### Jing Shao
 ##### Yi Fang
 ##### Lei Zhang
@@ -13,9 +9,7 @@
 ##### Massimo Albani
 ##### Chunmiao Liu
 ##### Michelle Jin
-##### Wujie Zhang
 ##### Lanlan Deng
-##### Janice Deng
 ##### Fanrong Kong
 ##### Anne Lin
 ##### Fang Yao

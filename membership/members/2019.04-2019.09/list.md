@@ -15,7 +15,7 @@
 ##### Michelle Jin
 ##### Wujie Zhang
 ##### Lanlan Deng
-##### Janice Deng
+##### Qingzhen Deng
 ##### Fanrong Kong
 ##### Anne Lin
 ##### Fang Yao

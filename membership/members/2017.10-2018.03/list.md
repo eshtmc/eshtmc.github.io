@@ -26,6 +26,6 @@
 ##### Taowen Zhang
 ##### Wujie Zhang
 ##### Xin Feng
-##### Yao Fang
+##### Fang Yao
 ##### Yayun Sun
 ##### Yi Fang
