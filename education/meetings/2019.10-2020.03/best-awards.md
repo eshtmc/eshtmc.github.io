@@ -10,3 +10,7 @@
 `Best Table Topic Speech` Xin Feng    
 `Best Prepared Speech` Ivy Dai   
 `Best Evaluator` Chunmiao Liu  
+
+### 135, Extreme Sports (2019-11-1)   
+`Best Prepared Speech` Mohammed Asif      
+`Best Evaluator` Nrapendra Singh   
