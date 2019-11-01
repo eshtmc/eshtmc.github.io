@@ -14,3 +14,11 @@
 `IE` Chunmiao Liu, Jing Shao, Jenny Yu       
 `Timer` Ivana Pazek    
 `Ah-counter` Nrapendra Singh  
+
+### 135, Extreme Sports (2019-11-1)   
+`TMD` Jing Shao     
+`GE`  Ivana Pazek   
+`IE` Lanlan Deng, Jenny Yu, Nrapendra Singh, Michelle Jin, Hong Wang      
+`Timer` Massimo Albani    
+`Grammarian` Chunmiao Liu   
+`Ah-counter` Ivy Dai     
