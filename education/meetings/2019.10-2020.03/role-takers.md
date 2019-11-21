@@ -28,7 +28,8 @@
 ### 136, The Avengers (2019-11-15)   
 `TMD` Fang Yao     
 `GE`  Jing Shao   
-`IE` Lei Zhang, Hongyu Qi, Fanrong Kong      
+`IE` Lei Zhang, Hongyu Qi, Fanrong Kong   
+`TTM` Nrapendra Singh 
 `Timer` Anne Lin       
 `Ah-counter` Mohammed Asif  
 `Meeting Manager` Hong Wang   
