@@ -18,3 +18,9 @@
 `L1-2-1` Fanrong Kong - How do I remind myself   
 `L1-2-2` Lei Zhang - Prepared   
 `AC-4` Xin Feng - Data Visualization   
+
+### 136, The Avengers (2019-11-15)   
+`TT`  Massimo Albani, Dongchen Tang, Maggie Li, Fang Yao, Lei Zhang, Chunmiao Liu
+`L1-2-2` Hong Wang -  Self-discipline    
+`L1-2-2` Chunmiao Liu - Our Town   
+`L3-2-1` Dongchen Tang - Appreciate   
