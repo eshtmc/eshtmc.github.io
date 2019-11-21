@@ -14,3 +14,8 @@
 ### 135, Extreme Sports (2019-11-1)   
 `Best Prepared Speech` Mohammed Asif      
 `Best Evaluator` Nrapendra Singh   
+
+### 136, The Avengers (2019-11-15)
+`Best Table Topic Speech` Fang Yao  
+`Best Prepared Speech` Chunmiao Liu      
+`Best Evaluator` Hongyu Qi     
