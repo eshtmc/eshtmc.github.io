@@ -24,3 +24,11 @@
 `Grammarian` Chunmiao Liu   
 `Ah-counter` Ivy Dai  
 `Meeting Manager` Lanlan Deng
+
+### 136, The Avengers (2019-11-15)   
+`TMD` Fang Yao     
+`GE`  Jing Shao   
+`IE` Lei Zhang, Hongyu Qi, Fanrong Kong      
+`Timer` Anne Lin       
+`Ah-counter` Mohammed Asif  
+`Meeting Manager` Hong Wang   
