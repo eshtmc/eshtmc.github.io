@@ -21,5 +21,6 @@
 `Best Evaluator` Hongyu Qi    
 
 ### 137, Hobby (2019-11-29)  
+`Best Table Topic Speech` Pengfei Guo   
 `Best Prepared Speech` Hongyu Qi      
 `Best Evaluator` Massimo Albani     
