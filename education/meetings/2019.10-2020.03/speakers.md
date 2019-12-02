@@ -24,3 +24,9 @@
 `L1-2-2` Hong Wang -  Self-discipline    
 `L1-2-2` Chunmiao Liu - Our Town   
 `L3-2-1` Dongchen Tang - Appreciate   
+
+### 137, Hobby (2019-11-29)   
+`TT`  Xin Feng, Nrapendra Singh, Dongchen Tang, Lei Zhang, Maggie Li   
+`L2-1` Jing Shao -  My Preferred Leadership Style    
+`L2-1` Hongyu Qi - Servant Leader   
+`L3-2` Nrapendra Singh - Investment In Stocks   
