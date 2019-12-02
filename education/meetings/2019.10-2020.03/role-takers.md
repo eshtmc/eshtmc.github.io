@@ -33,3 +33,14 @@
 `Timer` Anne Lin       
 `Ah-counter` Mohammed Asif  
 `Meeting Manager` Hong Wang   
+
+### 137, Hobby (2019-11-29)   
+`TMD` Maggie Li     
+`GE`  Lanlan Deng   
+`IE` Xin Feng, Bingchen Guo, Massimo Albani   
+`TTM` Fang Yao  
+`Timer` Lei Zhang       
+`Ah-counter` Hong Wang  
+`Meeting Manager` Jing Shao  
+`Grammarian` Chunmiao Liu  
+
