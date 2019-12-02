@@ -18,4 +18,8 @@
 ### 136, The Avengers (2019-11-15)
 `Best Table Topic Speech` Fang Yao  
 `Best Prepared Speech` Chunmiao Liu      
-`Best Evaluator` Hongyu Qi     
+`Best Evaluator` Hongyu Qi    
+
+### 137, Hobby (2019-11-29)  
+`Best Prepared Speech` Hongyu Qi      
+`Best Evaluator` Massimo Albani     
