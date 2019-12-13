@@ -35,4 +35,4 @@
 TT Ivana Pazek, Maggie Li, Pengfei Guo, Xin Feng, Nrapendra Singh   
 L1-2-2 Maggie Li - The meaning of Travel   
 AC Xin Feng - Network Slicing   
-L1-2-1 Ivana Pazek   
+L1-2-1 Ivana Pazek      
