@@ -35,7 +35,7 @@
 `Meeting Manager` Hong Wang   
 
 ### 137, Hobby (2019-11-29)   
-`TMD` Maggie Li     
+`TMD` Maggie Li       
 `GE`  Lanlan Deng   
 `IE` Xin Feng, Bingchen Guo, Massimo Albani   
 `TTM` Fang Yao  
@@ -43,4 +43,14 @@
 `Ah-counter` Hong Wang  
 `Meeting Manager` Jing Shao  
 `Grammarian` Chunmiao Liu  
+
+### 138, Dream (2019-12-13)   
+`TMD` Ivana Pazek          
+`GE`  Nrapendra Singh     
+`IE` Hong Wang, Dongchen Tang, Nrapendra Singh      
+`TTM` Lanlan Deng  
+`Timer` Fang Yao          
+`Ah-counter` Ivy Dai     
+`Meeting Manager` Fanrong Kong  
+`Grammarian` Asif     
 
