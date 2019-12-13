@@ -23,4 +23,9 @@
 ### 137, Hobby (2019-11-29)  
 `Best Table Topic Speech` Pengfei Guo   
 `Best Prepared Speech` Hongyu Qi      
-`Best Evaluator` Massimo Albani     
+`Best Evaluator` Massimo Albani   
+
+### 138, Dream (2019-12-13)  
+`Best Table Topic Speech` Pengfei Guo   
+`Best Prepared Speech` Maggie Li      
+`Best Evaluator` Dongchen Tang   
