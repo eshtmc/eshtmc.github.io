@@ -29,3 +29,8 @@
 `Best Table Topic Speech` Pengfei Guo   
 `Best Prepared Speech` Maggie Li      
 `Best Evaluator` Dongchen Tang   
+
+### 139, Lego (2019-12-27)  
+`Best Table Topic Speech` Ben Gao    
+`Best Prepared Speech` Bingchen Guo, Anne Lin      
+`Best Evaluator` Elvis Jiang    
