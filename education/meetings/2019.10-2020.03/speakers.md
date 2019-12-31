@@ -36,3 +36,9 @@
 `L1-2-2` Maggie Li - The meaning of Travel   
 `AC` Xin Feng - Network Slicing   
 `L1-2-1` Ivana Pazek - Mental toughness   
+
+### 139, Lego (2019-12-27) 
+`TT` Elvis Jiang, Maggie Li, Dongchen Tang, Lei Zhang   
+`L1-2-2` Anne Lin - The Journey of driving learning   
+`L1-3` Lanlan Deng - How to deal with children rebellion   
+`L1-3` Bingchen Guo - How to change your behavior for the better  
