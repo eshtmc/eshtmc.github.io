@@ -74,3 +74,4 @@
 `L1-2-1` Massimo Albani - Serendipity   
 `L1-2-1` Ivana Pazek - The power of Intention     
 `L1-3` Michelle Wang - Meditation    
+        
