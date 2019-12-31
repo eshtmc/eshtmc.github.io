@@ -54,3 +54,13 @@
 `Meeting Manager` Fanrong Kong  
 `Grammarian` Mohammed Asif     
 
+### 139, Lego (2019-12-27)   
+`TMD` Nrapendra Singh          
+`GE`  Xin Feng     
+`IE` Elvis Jiang, Maggie Li, Jing Shao      
+`TTM` Hong Wang  
+`Timer` Lei Zhang          
+`Ah-counter` Pengfei Guo    
+`Meeting Manager` Michelle Jin   
+`Grammarian` Ivy Dai    
+`SAA helper` Jenny Yu  
