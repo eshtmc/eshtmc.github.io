@@ -6,7 +6,7 @@
 `Grammarian` Massimo Albani    
 `Timer` Mohammed Asif    
 `Ah-counter` Ivy Dai   
-`Meeting Manager` Ivana Pazek
+`Meeting-Manager` Ivana Pazek
 
 ### 134, Situational Conversation (2019-10-18)
 `TMD` Xin Feng   
@@ -23,7 +23,7 @@
 `Timer` Massimo Albani    
 `Grammarian` Chunmiao Liu   
 `Ah-counter` Ivy Dai  
-`Meeting Manager` Lanlan Deng
+`Meeting-Manager` Lanlan Deng
 
 ### 136, The Avengers (2019-11-15)   
 `TMD` Fang Yao     
@@ -32,7 +32,7 @@
 `TTM` Nrapendra Singh  
 `Timer` Anne Lin       
 `Ah-counter` Mohammed Asif  
-`Meeting Manager` Hong Wang   
+`Meeting-Manager` Hong Wang   
 
 ### 137, Hobby (2019-11-29)   
 `TMD` Maggie Li       
@@ -41,7 +41,7 @@
 `TTM` Fang Yao  
 `Timer` Lei Zhang       
 `Ah-counter` Hong Wang  
-`Meeting Manager` Jing Shao  
+`Meeting-Manager` Jing Shao  
 `Grammarian` Chunmiao Liu  
 
 ### 138, Dream (2019-12-13)   
@@ -51,7 +51,7 @@
 `TTM` Lanlan Deng  
 `Timer` Fang Yao          
 `Ah-counter` Ivy Dai     
-`Meeting Manager` Fanrong Kong  
+`Meeting-Manager` Fanrong Kong  
 `Grammarian` Mohammed Asif     
 
 ### 139, Lego (2019-12-27)   
@@ -61,6 +61,6 @@
 `TTM` Hong Wang  
 `Timer` Lei Zhang          
 `Ah-counter` Pengfei Guo    
-`Meeting Manager` Michelle Jin   
+`Meeting-Manager` Michelle Jin   
 `Grammarian` Ivy Dai    
-`SAA helper` Jenny Yu  
+`SAA-helper` Jenny Yu  
