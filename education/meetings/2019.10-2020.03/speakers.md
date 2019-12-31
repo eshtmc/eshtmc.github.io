@@ -39,6 +39,6 @@
 
 ### 139, Lego (2019-12-27) 
 `TT` Elvis Jiang, Maggie Li, Dongchen Tang, Lei Zhang   
-`L1-2-2` Anne Lin - The Journey of driving learning   
+`L1-2-1` Anne Lin - The Journey of driving learning   
 `L1-3` Lanlan Deng - How to deal with children rebellion   
 `L1-3` Bingchen Guo - How to change your behavior for the better  
