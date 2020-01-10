@@ -1,4 +1,3 @@
-
 #### [Home](https://eshtmc.github.io/)    
 
 ### 133, Love (2019-10-11)
@@ -34,3 +33,8 @@
 `Best Table Topic Speech` Ben Gao    
 `Best Prepared Speech` Bingchen Guo, Anne Lin      
 `Best Evaluator` Elvis Jiang    
+
+### 140, Prospect (2020-01-10)  
+`Best Table Topic Speech` Elvis Jiang, Nrapendra Singh       
+`Best Prepared Speech` Sarah Zhang         
+`Best Evaluator` Massimo Albani       
