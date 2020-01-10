@@ -42,4 +42,10 @@
 `L1-2-1` Anne Lin - The Journey of driving learning   
 `L1-3` Lanlan Deng - How to deal with children rebellion   
 `L1-3` Bingchen Guo - How to change your behavior for the better   
+
+### 140, Prospect (2020-01-10) 
+`TT`  Nrapendra Singh, Xin Feng,  Sarah Zhang, Elvis Jiang, Ivana Pazek   
+`L1-3` Hong Wang - Healthy Self-Esteem   
+`L2-2` Ivana Pazek - True Knowing   
+`CC10` Sarah Zhang - Mental toughness   
         
