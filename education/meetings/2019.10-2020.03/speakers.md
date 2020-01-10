@@ -35,7 +35,7 @@
 `TT` Ivana Pazek, Maggie Li, Pengfei Guo, Xin Feng, Nrapendra Singh   
 `L1-2-2` Maggie Li - The meaning of Travel   
 `AC` Xin Feng - Network Slicing   
-`L1-2-1` Ivana Pazek - Mental toughness   
+`L1-2-2` Ivana Pazek - Mental toughness   
 
 ### 139, Lego (2019-12-27) 
 `TT` Elvis Jiang, Maggie Li, Dongchen Tang, Lei Zhang   
