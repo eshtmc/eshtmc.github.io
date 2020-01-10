@@ -64,3 +64,15 @@
 `Meeting-Manager` Michelle Jin   
 `Grammarian` Ivy Dai    
 `SAA-helper` Jenny Yu  
+
+### 140, Prospect (2020-01-10)   
+`TMD` Elvis Jiang             
+`GE`  Dongchen Tang        
+`IE` Lanlan Deng, Dongchen Tang, Fang Yao         
+`TTM` Pengfei Guo     
+`Timer` Lei Zhang          
+`Ah-counter` Nrapendra Singh       
+`Meeting-Manager` Dongchen Tang      
+`Grammarian` Ivy Dai    
+`SAA-helper` Anne Lin     
+
