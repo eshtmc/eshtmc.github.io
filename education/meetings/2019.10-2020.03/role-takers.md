@@ -82,5 +82,5 @@
 `IE` Dongchen Tang, Pengfei Guo         
 `TTM` Nrapendra Singh     
 `Timer` Michelle Jin                
-`Meeting-Manager` Nrapendra Singh         
+`Meeting-Manager` Massimo Albani            
 `SAA-helper` Anne Lin 
