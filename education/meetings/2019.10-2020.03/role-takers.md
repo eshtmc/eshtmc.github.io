@@ -76,3 +76,11 @@
 `Grammarian` Ivy Dai    
 `SAA-helper` Anne Lin     
 
+### 141, Mission Impossible (2020-01-17)   
+`TMD` Fang Yao             
+`GE`  Massimo Albani        
+`IE` Dongchen Tang, Pengfei Guo         
+`TTM` Nrapendra Singh     
+`Timer` Ivy Dai                
+`Meeting-Manager` Nrapendra Singh         
+`SAA-helper` Anne Lin 
