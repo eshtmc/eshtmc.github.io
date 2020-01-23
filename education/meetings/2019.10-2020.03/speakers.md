@@ -41,7 +41,7 @@
 `TT` Elvis Jiang, Maggie Li, Dongchen Tang, Lei Zhang   
 `L1-2-1` Anne Lin - The Journey of driving learning   
 `L1-3` Lanlan Deng - How to deal with children rebellion   
-`L1-3` Bingchen Guo - How to change your behavior for the better   
+`L1-2-1` Bingchen Guo - How to change your behavior for the better   
 
 ### 140, Prospect (2020-01-10) 
 `TT`  Nrapendra Singh, Xin Feng,  Sarah Zhang, Elvis Jiang, Ivana Pazek   
@@ -49,3 +49,8 @@
 `L2-2` Ivana Pazek - True Knowing   
 `CC10` Sarah Zhang - Mental toughness   
         
+### 141, Mission Impossible (2020-01-17) 
+`TT`  Dongchen Tang, Yi Fang, Ivana Pazek    
+`L1-2-2` Bingchen Guo - How to change your behavior for the better   
+`L2-3` Ivana Pazek - Know Yourself   
+
