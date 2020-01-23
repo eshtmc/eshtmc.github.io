@@ -38,3 +38,7 @@
 `Best Table Topic Speech` Elvis Jiang, Nrapendra Singh       
 `Best Prepared Speech` Sarah Zhang         
 `Best Evaluator` Massimo Albani       
+
+### 141,  Mission Impossible (2020-01-17)  
+`Best Table Topic Speech` Ivana Pazek       
+     
