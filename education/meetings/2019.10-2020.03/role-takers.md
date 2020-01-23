@@ -81,6 +81,6 @@
 `GE`  Massimo Albani        
 `IE` Dongchen Tang, Pengfei Guo         
 `TTM` Nrapendra Singh     
-`Timer` Ivy Dai                
+`Timer` Michelle Jin                
 `Meeting-Manager` Nrapendra Singh         
 `SAA-helper` Anne Lin 
