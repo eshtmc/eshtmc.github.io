@@ -54,3 +54,8 @@
 `L1-2-2` Bingchen Guo - How to change your behavior for the better   
 `L2-3` Ivana Pazek - Know Yourself   
 
+### 142, Challenging Moment (2020-02-28) 
+`TT`  Pengfei Guo, Fang Yao, Xin Feng, Nrapendra Singh    
+`AC-manual-226A` Xin Feng - Dayone   
+`CC10` Michelle Hua - Get along with myself   
+
