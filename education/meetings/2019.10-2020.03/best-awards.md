@@ -39,6 +39,9 @@
 `Best Prepared Speech` Sarah Zhang         
 `Best Evaluator` Massimo Albani       
 
-### 141,  Mission Impossible (2020-01-17)  
+### 141, Mission Impossible (2020-01-17)  
 `Best Table Topic Speech` Ivana Pazek       
      
+### 142, Challenging Moment (2020-02-28)  
+`Best Table Topic Speech` Xin Feng   
+
