@@ -84,3 +84,12 @@
 `Timer` Michelle Jin                
 `Meeting-Manager` Massimo Albani            
 `SAA-helper` Anne Lin 
+
+### 142, Challenging Moment (2020-02-28)   
+`TMD` Maggie Li             
+`GE`  Nrapendra Singh        
+`IE`  Lanlan Deng, Pengfei Guo         
+`TTM` Dongchen Tang     
+`Timer` Elvis Jiang                
+`Meeting-Manager` Bingchen Guo        
+`Grammarian` Ivana Pazek   
