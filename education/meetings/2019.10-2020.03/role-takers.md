@@ -94,8 +94,17 @@
 `Meeting-Manager` Bingchen Guo        
 `Grammarian` Ivana Pazek  
 
+### 143, Speciaility (2020-03-13)   
+`TMD` Nrapendra Singh              
+`GE`  Xin Feng          
+`IE`  Ivana Pazek, Maggie Li              
+`TTM` Elvis Jiang     
+`Timer` Fang Yao                
+`Meeting-Manager` Xin Feng      
+
+
 ### 144, ETMC & ESHTMC Joint Online Meeting -  Independence (2020-03-20)   
-`TMD` Pengfe Guo               
+`TMD` Pengfei Guo               
 `IE`  Michelle Jin           
 `Timer` Hongyu Qi                  
 `Meeting-Manager` Xin Feng           
