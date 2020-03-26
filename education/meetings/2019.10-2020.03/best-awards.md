@@ -45,5 +45,8 @@
 ### 142, Challenging Moment (2020-02-28)  
 `Best Table Topic Speech` Xin Feng   
 
+### 143, Speciality (2020-3-13)  
+`Best Table Topic Speech` Maggie Li   
+
 ### 144, Independence (2020-03-20)  
 `Best Table Topic Speech` Xin Feng   
