@@ -99,7 +99,7 @@
 `GE`  Xin Feng          
 `IE`  Ivana Pazek, Maggie Li              
 `TTM` Elvis Jiang     
-`Timer` Fang Yao                
+`Timer` Lanlan Deng                   
 `Meeting-Manager` Xin Feng      
 
 
