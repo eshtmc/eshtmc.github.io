@@ -45,3 +45,5 @@
 ### 142, Challenging Moment (2020-02-28)  
 `Best Table Topic Speech` Xin Feng   
 
+### 144, Independence (2020-03-20)  
+`Best Table Topic Speech` Xin Feng   
