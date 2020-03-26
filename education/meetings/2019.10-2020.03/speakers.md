@@ -59,3 +59,7 @@
 `AC-manual-226A` Xin Feng - Dayone   
 `CC10` Michelle Hua - Get along with myself   
 
+### 144, ETMC & ESHTMC Joint Online Meeting -  Independence (2020-03-20) 
+`TT`  Xin Feng, Nrapendra Singh    
+`L4-1`  Nrapendra Singh - Be Prepared for Unexpected   
+
