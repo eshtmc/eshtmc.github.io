@@ -92,4 +92,10 @@
 `TTM` Dongchen Tang     
 `Timer` Elvis Jiang                
 `Meeting-Manager` Bingchen Guo        
-`Grammarian` Ivana Pazek   
+`Grammarian` Ivana Pazek  
+
+### 144, ETMC & ESHTMC Joint Online Meeting -  Independence (2020-03-20)   
+`TMD` Pengfe Guo               
+`IE`  Michelle Jin           
+`Timer` Hongyu Qi                  
+`Meeting-Manager` Xin Feng           
