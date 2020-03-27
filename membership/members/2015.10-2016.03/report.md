@@ -4,9 +4,11 @@
 `TTM` in Meeting 039, Courage (2016-01-22)   
 `Grammarian` in Meeting 034, Marriage (2015-11-13)      
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        2
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    2
+* Bacis Roles:    1
+* Advanced Roles: 1
 
 #### Anan Zhang
 `CC2` in Meeting 036, Car (2015-12-11)   
@@ -14,17 +16,21 @@
 
 `Timer` in Meeting 034, Marriage (2015-11-13)      
 
-* Attendance: 0
-* Speeches:        2
-* Roles:        1
+* Attendance:     0
+* Speeches:       2
+* Total Roles:    1
+* Bacis Roles:    1
+* Advanced Roles: 0
 
 #### Anna Liu
 `Speech in Meeting 038, Plan (2016-01-08)   
 
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        0
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    0
+* Bacis Roles:    0
+* Advanced Roles: 0
 
 #### Benny Zhang
 `CC4` in Meeting 035, Passion (2015-11-27)   
@@ -35,9 +41,11 @@
 `IE` in Meeting 033, Mask (2015-10-30)     
 `IE` in Meeting 032, Cell Phone (2015-10-16)   
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        5
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    5
+* Bacis Roles:    1
+* Advanced Roles: 4
 
 #### Davis Zhang
 `TT` in Meeting 040, Spring (2016-02-19)   
@@ -47,17 +55,21 @@
 `Timer` in Meeting 036, Car (2015-12-11)   
 `TTM` in Meeting 034, Marriage (2015-11-13)      
 
-* Attendance: 0
-* Speeches:        2
-* Roles:        3
+* Attendance:     0
+* Speeches:       2
+* Total Roles:    3
+* Bacis Roles:    1
+* Advanced Roles: 2
 
 #### Eve Zhang
 `CC1` in Meeting 040, Spring (2016-02-19)   
 
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        0
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    0
+* Bacis Roles:    0
+* Advanced Roles: 0
 
 #### Felix Li
 `CC4` in Meeting 036, Car (2015-12-11)   
@@ -66,18 +78,22 @@
 `TTM` in Meeting 040, Spring (2016-02-19)   
 `Timer` in Meeting 035, Passion (2015-11-27)   
 
-* Attendance: 0
-* Speeches:        2
-* Roles:        2
+* Attendance:     0
+* Speeches:       2
+* Total Roles:    2
+* Bacis Roles:    1
+* Advanced Roles: 1
 
 #### Jackson Hu
 `CC2` in Meeting 033, Mask (2015-10-30)    
 
 `Timer` in Meeting 032, Cell Phone (2015-10-16)   
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        1
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    1
+* Bacis Roles:    1
+* Advanced Roles: 0
 
 #### Jacky Yang
 
@@ -86,9 +102,11 @@
 `IE` in Meeting 036, Car (2015-12-11)   
 `IE` in Meeting 033, Mask (2015-10-30)     
 
-* Attendance: 1
-* Speeches:        0
-* Roles:        4
+* Attendance:     1
+* Speeches:       0
+* Total Roles:    4
+* Bacis Roles:    2
+* Advanced Roles: 2
 
 #### Jane Gong
 
@@ -98,9 +116,11 @@
 `Ah-Counter` in Meeting 036, Car (2015-12-11)   
 `Grammarian` in Meeting 032, Cell Phone (2015-10-16)   
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        5
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    5
+* Bacis Roles:    2
+* Advanced Roles: 3
 
 #### Jason Xu
 
@@ -110,23 +130,29 @@
 `GE` in Meeting 032, Cell Phone (2015-10-16)   
 `IE` in Meeting 032, Cell Phone (2015-10-16)   
 
-* Attendance: 2
-* Speeches:        0
-* Roles:        5
+* Attendance:     2
+* Speeches:       0
+* Total Roles:    5
+* Bacis Roles:    0
+* Advanced Roles: 5
 
 #### Jessie Gu
 
 
-* Attendance: 1
-* Speeches:        0
-* Roles:        0
+* Attendance:     1
+* Speeches:       0
+* Total Roles:    0
+* Bacis Roles:    0
+* Advanced Roles: 0
 
 #### Jim Liang
 
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        0
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    0
+* Bacis Roles:    0
+* Advanced Roles: 0
 
 #### Jony Zheng
 `Speech in Meeting 039, Courage (2016-01-22)   
@@ -136,17 +162,21 @@
 `TMD` in Meeting 037, Christmas (2015-12-24)   
 `TTM` in Meeting 035, Passion (2015-11-27)   
 
-* Attendance: 1
-* Speeches:        2
-* Roles:        3
+* Attendance:     1
+* Speeches:       2
+* Total Roles:    3
+* Bacis Roles:    0
+* Advanced Roles: 3
 
 #### Juhi Satija
 
 `IE` in Meeting 035, Passion (2015-11-27)   
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        1
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    1
+* Bacis Roles:    0
+* Advanced Roles: 1
 
 #### Karry Kong
 `TT` in Meeting 040, Spring (2016-02-19)   
@@ -156,9 +186,11 @@
 `TMD` in Meeting 035, Passion (2015-11-27)   
 `IE` in Meeting 033, Mask (2015-10-30)     
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        4
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    4
+* Bacis Roles:    0
+* Advanced Roles: 4
 
 #### Kuan Li
 `CC2` in Meeting 036, Car (2015-12-11)   
@@ -166,9 +198,11 @@
 `Timer` in Meeting 038, Plan (2016-01-08)   
 `TMD` in Meeting 034, Marriage (2015-11-13)      
 
-* Attendance: 2
-* Speeches:        1
-* Roles:        2
+* Attendance:     2
+* Speeches:       1
+* Total Roles:    2
+* Bacis Roles:    1
+* Advanced Roles: 1
 
 #### Lee Li
 `CC3` in Meeting 035, Passion (2015-11-27)   
@@ -179,9 +213,11 @@
 `TMD` in Meeting 036, Car (2015-12-11)   
 `TMD` in Meeting 033, Mask (2015-10-30)     
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        5
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    5
+* Bacis Roles:    2
+* Advanced Roles: 3
 
 #### Michelle Jin
 
@@ -189,26 +225,32 @@
 `Ah-Counter` in Meeting 039, Courage (2016-01-22)   
 `Grammarian` in Meeting 033, Mask (2015-10-30)     
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        3
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    3
+* Bacis Roles:    3
+* Advanced Roles: 0
 
 #### Michelle Wang
 `Speech in Meeting 038, Plan (2016-01-08)   
 
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        0
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    0
+* Bacis Roles:    0
+* Advanced Roles: 0
 
 #### Richard Fu
 
 `TTM` in Meeting 036, Car (2015-12-11)   
 `TMD` in Meeting 032, Cell Phone (2015-10-16)   
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        2
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    2
+* Bacis Roles:    0
+* Advanced Roles: 2
 
 #### Sean Shi
 `CC4` in Meeting 033, Mask (2015-10-30)    
@@ -217,9 +259,11 @@
 `IE` in Meeting 034, Marriage (2015-11-13)      
 `TTM` in Meeting 032, Cell Phone (2015-10-16)   
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        3
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    3
+* Bacis Roles:    0
+* Advanced Roles: 3
 
 #### Sharon Cai
 
@@ -227,9 +271,11 @@
 `TTM` in Meeting 033, Mask (2015-10-30)     
 `Ah-Counter` in Meeting 032, Cell Phone (2015-10-16)   
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        3
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    3
+* Bacis Roles:    2
+* Advanced Roles: 1
 
 #### Smaty Shi
 `CC5` in Meeting 040, Spring (2016-02-19)   
@@ -239,9 +285,11 @@
 `GE` in Meeting 035, Passion (2015-11-27)   
 `Ah-Counter` in Meeting 034, Marriage (2015-11-13)      
 
-* Attendance: 1
-* Speeches:        1
-* Roles:        4
+* Attendance:     1
+* Speeches:       1
+* Total Roles:    4
+* Bacis Roles:    2
+* Advanced Roles: 2
 
 #### Sourabh Pahwa
 
@@ -249,16 +297,20 @@
 `IE` in Meeting 035, Passion (2015-11-27)   
 `GE` in Meeting 033, Mask (2015-10-30)     
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        3
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    3
+* Bacis Roles:    1
+* Advanced Roles: 2
 
 #### Tang Ben
 
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        0
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    0
+* Bacis Roles:    0
+* Advanced Roles: 0
 
 #### Taowen Zhang
 `TT` in Meeting 040, Spring (2016-02-19)   
@@ -269,9 +321,11 @@
 `IE` in Meeting 038, Plan (2016-01-08)   
 `GE` in Meeting 037, Christmas (2015-12-24)   
 
-* Attendance: 0
-* Speeches:        3
-* Roles:        3
+* Attendance:     0
+* Speeches:       3
+* Total Roles:    3
+* Bacis Roles:    0
+* Advanced Roles: 3
 
 #### Tomix Weng
 `TT` in Meeting 040, Spring (2016-02-19)   
@@ -280,16 +334,20 @@
 `IE` in Meeting 038, Plan (2016-01-08)   
 `IE` in Meeting 036, Car (2015-12-11)   
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        3
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    3
+* Bacis Roles:    0
+* Advanced Roles: 3
 
 #### Xiaobin Wang
 
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        0
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    0
+* Bacis Roles:    0
+* Advanced Roles: 0
 
 #### Xin Feng
 `CC3` in Meeting 039, Courage (2016-01-22)   
@@ -299,15 +357,19 @@
 `Ah-Counter` in Meeting 035, Passion (2015-11-27)   
 `IE` in Meeting 034, Marriage (2015-11-13)      
 
-* Attendance: 0
-* Speeches:        2
-* Roles:        3
+* Attendance:     0
+* Speeches:       2
+* Total Roles:    3
+* Bacis Roles:    1
+* Advanced Roles: 2
 
 #### Yang Liu
 
 `Timer` in Meeting 033, Mask (2015-10-30)     
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        1
+* Attendance:     0
+* Speeches:       0
+* Total Roles:    1
+* Bacis Roles:    1
+* Advanced Roles: 0
 

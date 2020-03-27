@@ -2,9 +2,11 @@
 `P8` in Meeting 112, Marriage (2018.12.14)      
 
 
-* Attendance: 3
-* Speeches:        1
-* Roles:        0
+* Attendance:     3
+* Speeches:       1
+* Total Roles:    0
+* Bacis Roles:    0
+* Advanced Roles: 0
 
 #### Anne Lin
 
@@ -12,18 +14,22 @@
 `Ah-counter` in Meeting 115, Retrospection & Prospect (2019.01.25)      
 `Timer` in Meeting 117, Self-Discovery (2019.03.1)      
 
-* Attendance: 6
-* Speeches:        0
-* Roles:        3
+* Attendance:     6
+* Speeches:       0
+* Total Roles:    3
+* Bacis Roles:    3
+* Advanced Roles: 0
 
 #### Chunmiao Liu
 `L1-1` in Meeting 119, Moments (2019.03.29)   
 
 `Grammarian` in Meeting 118, Persuasion (2019.03.15)      
 
-* Attendance: 0
-* Speeches:        1
-* Roles:        1
+* Attendance:     0
+* Speeches:       1
+* Total Roles:    1
+* Bacis Roles:    1
+* Advanced Roles: 0
 
 #### Dongchen Tang
 `TT` in Meeting 105, English (2018-09-07)   
@@ -51,9 +57,11 @@
 `IE` in Meeting 118, Persuasion (2019.03.15)      
 `IE` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 10
+* Attendance:     10
 * Speeches:       12
-* Roles:       11
+* Total Roles:    11
+* Bacis Roles:    2
+* Advanced Roles: 9
 
 #### Elvis Jiang
 `TT` in Meeting 105, English (2018-09-07)   
@@ -75,21 +83,30 @@
 `IE` in Meeting 116, Motivation (2019.02.15)      
 `TMD` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 9
+* Attendance:     9
 * Speeches:       10
-* Roles:        7
+* Total Roles:    7
+* Bacis Roles:    0
+* Advanced Roles: 7
 
 #### Fang Yao
+`TT` in Meeting 108, Imagine (2018.10.19)      
+`L1-2-1` in Meeting 112, Marriage (2018.12.14)      
 
 `Ah-Counter` in Meeting 105, English (2018-09-07)   
+`Grammarian` in Meeting 107, Emergency Handling (2018.10.12)      
+`TMD` in Meeting 111, Appreciation (2018.11.30)      
+`Grammarian` in Meeting 113, Presence of Mind (2018.12.28)      
 `TTM` in Meeting 115, Retrospection & Prospect (2019.01.25)      
 `GE` in Meeting 116, Motivation (2019.02.15)      
 `TMD` in Meeting 117, Self-Discovery (2019.03.1)      
 `Grammarian` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 0
-* Speeches:        0
-* Roles:        5
+* Attendance:     6
+* Speeches:       2
+* Total Roles:    8
+* Bacis Roles:    4
+* Advanced Roles: 4
 
 #### Hong Wang
 `L11` in Meeting 105, English (2018-09-07)   
@@ -98,9 +115,11 @@
 `Timer` in Meeting 110, Luck Fish (2018.11.16)      
 `Ah-counter` in Meeting 111, Appreciation (2018.11.30)      
 
-* Attendance: 8
-* Speeches:        1
-* Roles:        3
+* Attendance:     8
+* Speeches:       1
+* Total Roles:    3
+* Bacis Roles:    2
+* Advanced Roles: 1
 
 #### Hongyu Qi
 `L1-1` in Meeting 114, 5G (2019.01.11)      
@@ -112,9 +131,11 @@
 `IE` in Meeting 118, Persuasion (2019.03.15)      
 `GE` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 4
-* Speeches:        3
-* Roles:        4
+* Attendance:     4
+* Speeches:       3
+* Total Roles:    4
+* Bacis Roles:    1
+* Advanced Roles: 3
 
 #### Huihui Jiang
 `TT` in Meeting 105, English (2018-09-07)   
@@ -129,18 +150,22 @@
 `GE` in Meeting 117, Self-Discovery (2019.03.1)      
 `IE` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 9
-* Speeches:        3
-* Roles:        7
+* Attendance:     9
+* Speeches:       3
+* Total Roles:    7
+* Bacis Roles:    3
+* Advanced Roles: 4
 
 #### Jane Gong
 
 `IE` in Meeting 105, English (2018-09-07)   
 `GE` in Meeting 115, Retrospection & Prospect (2019.01.25)      
 
-* Attendance: 2
-* Speeches:        0
-* Roles:        2
+* Attendance:     2
+* Speeches:       0
+* Total Roles:    2
+* Bacis Roles:    0
+* Advanced Roles: 2
 
 #### Jenny Yu
 `L1-2` in Meeting 107, Emergency Handling (2018.10.12)      
@@ -154,9 +179,11 @@
 `TTM` in Meeting 116, Motivation (2019.02.15)      
 `TMD` in Meeting 118, Persuasion (2019.03.15)      
 
-* Attendance: 8
-* Speeches:        2
-* Roles:        7
+* Attendance:     8
+* Speeches:       2
+* Total Roles:    7
+* Bacis Roles:    4
+* Advanced Roles: 3
 
 #### Jing Shao
 `TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
@@ -167,9 +194,11 @@
 `Ah-counter` in Meeting 114, 5G (2019.01.11)      
 `Grammarian` in Meeting 115, Retrospection & Prospect (2019.01.25)      
 
-* Attendance: 6
-* Speeches:        3
-* Roles:        3
+* Attendance:     6
+* Speeches:       3
+* Total Roles:    3
+* Bacis Roles:    3
+* Advanced Roles: 0
 
 #### Jony Zheng
 `TT` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
@@ -178,9 +207,11 @@
 `TTM` in Meeting 111, Appreciation (2018.11.30)      
 `IE` in Meeting 113, Presence of Mind (2018.12.28)      
 
-* Attendance: 5
-* Speeches:        1
-* Roles:        3
+* Attendance:     5
+* Speeches:       1
+* Total Roles:    3
+* Bacis Roles:    0
+* Advanced Roles: 3
 
 #### Lanlan Deng
 `TT` in Meeting 109, Double Eleven (2018.11.02)      
@@ -189,9 +220,11 @@
 `Ah-counter` in Meeting 118, Persuasion (2019.03.15)      
 `Timer` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 5
-* Speeches:        2
-* Roles:        2
+* Attendance:     5
+* Speeches:       2
+* Total Roles:    2
+* Bacis Roles:    2
+* Advanced Roles: 0
 
 #### Lei Zhang
 `TT` in Meeting 109, Double Eleven (2018.11.02)      
@@ -203,9 +236,11 @@
 `Timer` in Meeting 116, Motivation (2019.02.15)      
 `Ah-counter` in Meeting 117, Self-Discovery (2019.03.1)      
 
-* Attendance: 4
-* Speeches:        5
-* Roles:        2
+* Attendance:     4
+* Speeches:       5
+* Total Roles:    2
+* Bacis Roles:    2
+* Advanced Roles: 0
 
 #### Maggie Li
 `TT` in Meeting 109, Double Eleven (2018.11.02)      
@@ -218,9 +253,11 @@
 `Timer` in Meeting 118, Persuasion (2019.03.15)      
 `TTM` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 6
-* Speeches:        2
-* Roles:        6
+* Attendance:     6
+* Speeches:       2
+* Total Roles:    6
+* Bacis Roles:    5
+* Advanced Roles: 1
 
 #### Michelle Hua
 `CC-P8` in Meeting 108, Imagine (2018.10.19)      
@@ -229,14 +266,17 @@
 `IE` in Meeting 110, Luck Fish (2018.11.16)      
 `GE` in Meeting 114, 5G (2019.01.11)      
 
-* Attendance: 5
-* Speeches:        2
-* Roles:        2
+* Attendance:     5
+* Speeches:       2
+* Total Roles:    2
+* Bacis Roles:    0
+* Advanced Roles: 2
 
 #### Michelle Jin
 `AC1-5` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
 `AC-1` in Meeting 116, Motivation (2019.02.15)   
 `AC2` in Meeting 117, Self-Discovery (2019.03.1)   
+`AC2` in Meeting 119, Moments (2019.03.29)   
 
 `Timer` in Meeting 108, Imagine (2018.10.19)      
 `GE` in Meeting 109, Double Eleven (2018.11.02)      
@@ -245,9 +285,11 @@
 `IE` in Meeting 113, Presence of Mind (2018.12.28)      
 `IE` in Meeting 114, 5G (2019.01.11)      
 
-* Attendance: 8
-* Speeches:        4
-* Roles:        6
+* Attendance:     8
+* Speeches:       4
+* Total Roles:    6
+* Bacis Roles:    1
+* Advanced Roles: 5
 
 #### Michelle Wang
 `TT` in Meeting 105, English (2018-09-07)   
@@ -267,9 +309,11 @@
 `Grammarian` in Meeting 116, Motivation (2019.02.15)      
 `IE` in Meeting 117, Self-Discovery (2019.03.1)      
 
-* Attendance: 9
-* Speeches:        6
-* Roles:        9
+* Attendance:     9
+* Speeches:       6
+* Total Roles:    9
+* Bacis Roles:    1
+* Advanced Roles: 8
 
 #### Nrapendra Singh
 `TT` in Meeting 105, English (2018-09-07)   
@@ -285,16 +329,23 @@
 `TTM` in Meeting 113, Presence of Mind (2018.12.28)      
 `IE` in Meeting 114, 5G (2019.01.11)      
 
-* Attendance: 6
-* Speeches:        7
-* Roles:        4
+* Attendance:     6
+* Speeches:       7
+* Total Roles:    4
+* Bacis Roles:    2
+* Advanced Roles: 2
 
 #### Qingzhen Deng
+`TT` in Meeting 110, Luck Fish (2018.11.16)      
 
+`Ah-counter` in Meeting 110, Luck Fish (2018.11.16)      
 
-* Attendance: 2
-* Speeches:        0
-* Roles:        0
+* Attendance:     2
+6
+* Speeches:       1
+* Total Roles:    1
+* Bacis Roles:    1
+* Advanced Roles: 0
 
 #### Sarah Zhang
 `CC7` in Meeting 113, Presence of Mind (2018.12.28)      
@@ -303,9 +354,11 @@
 `IE` in Meeting 117, Self-Discovery (2019.03.1)      
 `IE` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 5
-* Speeches:        1
-* Roles:        3
+* Attendance:     5
+* Speeches:       1
+* Total Roles:    3
+* Bacis Roles:    0
+* Advanced Roles: 3
 
 #### Siyuan Jia
 `CC8` in Meeting 106, The Mid-Autumn Festival (2018-09-21)     
@@ -314,9 +367,11 @@
 `TTM` in Meeting 105, English (2018-09-07)   
 `Ah-counter` in Meeting 109, Double Eleven (2018.11.02)      
 
-* Attendance: 0
-* Speeches:        2
-* Roles:        2
+* Attendance:     0
+* Speeches:       2
+* Total Roles:    2
+* Bacis Roles:    1
+* Advanced Roles: 1
 
 #### Taowen Zhang
 `TT` in Meeting 108, Imagine (2018.10.19)      
@@ -328,9 +383,11 @@
 `TMD` in Meeting 113, Presence of Mind (2018.12.28)      
 `IE` in Meeting 117, Self-Discovery (2019.03.1)      
 
-* Attendance: 9
-* Speeches:        2
-* Roles:        5
+* Attendance:     9
+* Speeches:       2
+* Total Roles:    5
+* Bacis Roles:    1
+* Advanced Roles: 4
 
 #### Wujie Zhang
 `TT` in Meeting 112, Marriage (2018.12.14)      
@@ -340,9 +397,11 @@
 `Grammarian` in Meeting 110, Luck Fish (2018.11.16)      
 `Grammarian` in Meeting 112, Marriage (2018.12.14)      
 
-* Attendance: 6
-* Speeches:        1
-* Roles:        4
+* Attendance:     6
+* Speeches:       1
+* Total Roles:    4
+* Bacis Roles:    2
+* Advanced Roles: 2
 
 #### Xin Feng
 `TT` in Meeting 105, English (2018-09-07)   
@@ -368,9 +427,11 @@
 `GE` in Meeting 118, Persuasion (2019.03.15)      
 `IE` in Meeting 119, Moments (2019.03.29)      
 
-* Attendance: 10
+* Attendance:     10
 * Speeches:       12
-* Roles:        9
+* Total Roles:    9
+* Bacis Roles:    0
+* Advanced Roles: 9
 
 #### Yi Fang
 `L1-2` in Meeting 109, Double Eleven (2018.11.02)      
@@ -382,7 +443,9 @@
 `TTM` in Meeting 108, Imagine (2018.10.19)      
 `IE` in Meeting 116, Motivation (2019.02.15)      
 
-* Attendance: 8
-* Speeches:        3
-* Roles:        4
+* Attendance:     8
+* Speeches:       3
+* Total Roles:    4
+* Bacis Roles:    1
+* Advanced Roles: 3
 
