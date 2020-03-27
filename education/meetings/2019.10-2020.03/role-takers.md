@@ -102,9 +102,18 @@
 `Timer` Lanlan Deng                   
 `Meeting-Manager` Xin Feng      
 
-
 ### 144, ETMC & ESHTMC Joint Online Meeting -  Independence (2020-03-20)   
 `TMD` Pengfei Guo               
 `IE`  Michelle Jin           
 `Timer` Hongyu Qi                  
 `Meeting-Manager` Xin Feng           
+
+### 145, Reading (2020-03-27)   
+`TMD` Lanlan Deng              
+`GE`  Ivana Pazek          
+`IE`  Nrapendra Singh, Hongyu Qi              
+`TTM` Pengfei Guo     
+`Timer` Jing Shao
+`Ah-counter` Anne Lin   
+`Meeting-Manager` Nrapendra Singh     
+
