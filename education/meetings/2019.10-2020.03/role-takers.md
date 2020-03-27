@@ -100,7 +100,7 @@
 `IE`  Ivana Pazek, Maggie Li              
 `TTM` Elvis Jiang     
 `Timer` Lanlan Deng                   
-`Meeting-Manager` Xin Feng      
+`Meeting-Manager` Fang Yao      
 
 ### 144, ETMC & ESHTMC Joint Online Meeting -  Independence (2020-03-20)   
 `TMD` Pengfei Guo               
