@@ -50,3 +50,6 @@
 
 ### 144, Independence (2020-03-20)  
 `Best Table Topic Speech` Xin Feng   
+
+### 145, Reading (2020-03-27)  
+`Best Table Topic Speech` Chaofan Zhang    
