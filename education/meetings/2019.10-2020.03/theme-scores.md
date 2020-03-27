@@ -11,3 +11,6 @@
 
 ### 144,  Independence (2020-03-20)
 ` Independence` 4.333     
+
+### 145,  Reading (2020-03-27)
+` Reading` 4.067  
