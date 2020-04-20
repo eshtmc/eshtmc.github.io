@@ -53,3 +53,6 @@
 
 ### 145, Reading (2020-03-27)  
 `Best Table Topic Speech` Chaofan Zhang    
+
+### 146, Persist (2020-04-17)  
+`Best Table Topic Speech` Chaofan Zhang, Candice Gao
