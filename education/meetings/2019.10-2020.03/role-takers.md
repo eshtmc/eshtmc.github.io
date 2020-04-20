@@ -117,3 +117,11 @@
 `Ah-counter` Anne Lin   
 `Meeting-Manager` Nrapendra Singh     
 
+### 146, Persist (2020-04-17)   
+`TMD` Lanlan Deng              
+`GE`  Elvis Jiang          
+`IE`  Mohammed Asif, Xin Feng              
+`TTM` Ivana Pazek     
+`Timer` Hong Wang      
+`Meeting-Manager` Elvis Jiang  
+
