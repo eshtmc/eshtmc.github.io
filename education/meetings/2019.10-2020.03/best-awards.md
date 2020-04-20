@@ -55,4 +55,4 @@
 `Best Table Topic Speech` Chaofan Zhang    
 
 ### 146, Persist (2020-04-17)  
-`Best Table Topic Speech` Chaofan Zhang, Candice Gao
+`Best Table Topic Speech` Chaofan Zhang, Candice Gao   
