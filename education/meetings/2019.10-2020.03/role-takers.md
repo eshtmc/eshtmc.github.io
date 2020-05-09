@@ -125,3 +125,18 @@
 `Timer` Hong Wang      
 `Meeting-Manager` Elvis Jiang  
 
+### 147, Persist (2020-04-24)   
+`TMD` Massimo Albani              
+`GE`  Elvis Jiang          
+`IE`  Ivana Pazek, Fang Yao              
+`TTM` Xing Feng     
+`Timer` Maggie Li      
+`Meeting-Manager` Maggie Li  
+
+### 148, Persist (2020-05-08)   
+`TMD` Elvis Jiang              
+`GE`  Michelle Jin          
+`IE`  Fang Yao, Lanlan Deng              
+`TTM` Maggie Li     
+`Timer` Massimo Albani      
+`Meeting-Manager` Ivana Pazek  
