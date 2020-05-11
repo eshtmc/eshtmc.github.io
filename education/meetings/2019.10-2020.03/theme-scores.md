@@ -21,3 +21,5 @@
 ### 147,  Design Festival (2020-04-24)
 `Design Festival` 4.091
 
+### 148,  Rock Paper Scissors (2020-05-08)
+`Rock Paper Scissors` 3.89
