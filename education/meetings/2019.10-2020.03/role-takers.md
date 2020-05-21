@@ -140,3 +140,11 @@
 `TTM` Maggie Li     
 `Timer` Massimo Albani      
 `Meeting-Manager` Ivana Pazek  
+
+### 149, Ways to relax (2020-05-15)   
+`TMD` Michelle Jin              
+`GE`  Fang Yao          
+`IE`  Xin Feng, Dongchen Tang              
+`TTM` Nrapendra Singh     
+`Timer` Ivana Pazek      
+`Meeting-Manager` Lanlan Deng   
