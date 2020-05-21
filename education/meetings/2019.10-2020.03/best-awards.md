@@ -62,3 +62,6 @@
 
 ### 148, Rock Paper Scissors (2020-05-08)  
 `Best Table Topic Speech` Nrapendra Singh   
+
+### 149, Ways to relax (2020-05-15)  
+`Best Table Topic Speech` Mengting Chen 
