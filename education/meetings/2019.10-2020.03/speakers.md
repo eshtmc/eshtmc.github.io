@@ -88,3 +88,8 @@
 `TT` Michelle Jin, Nrapendra Singh, Elvis Jiang, Hongyu Qi, Massimo Albani    
 `L3-2-3` Dongchen Tang - Lure Fishing   
 `L2-2` Hongyu Qi - Building Communication Flexibility   
+
+### 149, Ways to relax (2020-05-15)
+`TT` Jarek Hu, Ivana Pazek, Xin Feng, Fang Yao, Massimo Albani, Yi Fang    
+`L2-1` Lanlan Deng - Manage time efficiently   
+`L1-2-2` Pengfei Guo - Getting personal about change   
