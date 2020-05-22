@@ -1,0 +1,33 @@
+#### [Home](https://eshtmc.github.io/)  
+
+### 146, Persist (2020-04-17)   
+`TMD` Lanlan Deng              
+`GE`  Elvis Jiang          
+`IE`  Mohammed Asif, Xin Feng              
+`TTM` Ivana Pazek     
+`Timer` Hong Wang      
+`Meeting-Manager` Elvis Jiang  
+
+### 147, Persist (2020-04-24)   
+`TMD` Massimo Albani              
+`GE`  Elvis Jiang          
+`IE`  Ivana Pazek, Fang Yao              
+`TTM` Xing Feng     
+`Timer` Maggie Li      
+`Meeting-Manager` Maggie Li  
+
+### 148, Persist (2020-05-08)   
+`TMD` Elvis Jiang              
+`GE`  Michelle Jin          
+`IE`  Fang Yao, Lanlan Deng              
+`TTM` Maggie Li     
+`Timer` Massimo Albani      
+`Meeting-Manager` Ivana Pazek  
+
+### 149, Ways to relax (2020-05-15)   
+`TMD` Michelle Jin              
+`GE`  Fang Yao          
+`IE`  Xin Feng, Dongchen Tang              
+`TTM` Nrapendra Singh     
+`Timer` Ivana Pazek      
+`Meeting-Manager` Lanlan Deng   
