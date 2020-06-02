@@ -31,3 +31,11 @@
 `TTM` Nrapendra Singh     
 `Timer` Ivana Pazek      
 `Meeting-Manager` Lanlan Deng   
+
+### 150, Bucket List (2020-05-22)   
+`TMD`  Nrapendra Singh             
+`GE` Elvis Jiang            
+`IE`  Hongyu Qi, Massimo Albani                
+`TTM` Jarek Hu    
+`Timer`Maggie Li      
+`Meeting-Manager` Hong Wang  
