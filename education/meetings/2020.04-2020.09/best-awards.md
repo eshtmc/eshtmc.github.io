@@ -11,3 +11,6 @@
 
 ### 149, Ways to relax (2020-05-15)  
 `Best Table Topic Speech` Mengting Chen 
+
+### 150, Bucket List (2020-05-22)  
+`Best Table Topic Speech` Candice Gao
