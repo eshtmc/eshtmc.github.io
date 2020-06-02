@@ -20,3 +20,8 @@
 `TT` Jarek Hu, Ivana Pazek, Xin Feng, Fang Yao, Massimo Albani, Yi Fang    
 `L2-1` Lanlan Deng - Manage time efficiently   
 `L1-2-2` Pengfei Guo - Getting personal about change   
+
+### 150, Bucket List (2020-05-22)
+`TT` Hongyu Qi, Michelle Jin, Xin Feng, Massimo Albani, Candice Gao, Nrapendra Singh, Mengting Chen     
+`AC18` Xin Feng - Just use it   
+`L4-1` Dongchen Tang - Change    
