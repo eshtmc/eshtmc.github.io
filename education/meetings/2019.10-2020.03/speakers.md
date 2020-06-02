@@ -71,4 +71,4 @@
 ### 145, Reading (2020-03-27) 
 `TT`  Ivana Pazek, Xin Feng, Fang Yao, Dongchen Tang    
 `L2-1` Fang Yao - Leadership in daily life   
-`AC-17` Xin Feng - Trevor Noah 
+`AC-17` Xin Feng - Trevor Noah  
