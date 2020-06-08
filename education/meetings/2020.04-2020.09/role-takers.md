@@ -35,7 +35,16 @@
 ### 150, Bucket List (2020-05-22)   
 `TMD`  Nrapendra Singh             
 `GE` Elvis Jiang            
-`IE`  Hongyu Qi, Massimo Albani                
+`IE`  Hongyu Qi, Massimo Albani     
 `TTM` Jarek Hu    
 `Timer`Maggie Li      
-`Meeting-Manager` Hong Wang  
+`Meeting-Manager` Hong Wang 
+
+### 151, Words to Officers (2020-06-05)   
+`TMD`  Lei Zhang             
+`GE` Nrapendra Singh            
+`IE`  Elvis Jiang, Chunmiao Liu           
+`TTM` Xin Feng    
+`Timer` Jing Shao     
+`Ah-counter` Jarek Hu  
+`Meeting-Manager` Jing Shao  
