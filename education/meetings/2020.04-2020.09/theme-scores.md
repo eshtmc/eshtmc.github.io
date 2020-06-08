@@ -14,3 +14,6 @@
 
 ### 150,  Bucket List (2020-05-22)
 `Bucket List` 4.225    
+
+### 151,  Words to Officers (2020-06-05)
+`Words to Officers` 4.307    
