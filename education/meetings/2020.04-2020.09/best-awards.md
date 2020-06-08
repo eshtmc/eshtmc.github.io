@@ -14,3 +14,6 @@
 
 ### 150, Bucket List (2020-05-22)  
 `Best Table Topic Speech` Candice Gao
+
+### 151, Words to Officers (2020-06-05)  
+`Best Table Topic Speech` Elvis Jiang   
