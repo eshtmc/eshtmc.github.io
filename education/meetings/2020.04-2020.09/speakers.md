@@ -25,3 +25,8 @@
 `TT` Hongyu Qi, Michelle Jin, Xin Feng, Massimo Albani, Candice Gao, Nrapendra Singh, Mengting Chen     
 `AC18` Xin Feng - Just use it   
 `L4-1` Dongchen Tang - Change    
+
+### 151, Words to Officers (2020-06-05)
+`TT` Chunmiao Liu, Nrapendra Singh, Lanlan Deng, Elvis Jiang, Michelle Jin, Massimo Albani, Ivana Pazek, Mengting Chen, Yi Fang, Lei Zhang   
+`L1-2-2` Massimo Albani - What's in a name?    
+`L2-2` Lanlan Deng - Watching the movie while being in the movie 
