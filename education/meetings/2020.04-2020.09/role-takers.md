@@ -48,3 +48,11 @@
 `Timer` Jing Shao     
 `Ah-counter` Jarek Hu  
 `Meeting-Manager` Jing Shao  
+
+### 152, June (2020-06-19)   
+`TMD`  Nrapendra Singh             
+`GE` Xin Feng            
+`IE`  Jing Shao, Maggie Li           
+`TTM` Hongyu Qi    
+`Timer` Lanlan Deng      
+`Meeting-Manager` Fanrong Kong  

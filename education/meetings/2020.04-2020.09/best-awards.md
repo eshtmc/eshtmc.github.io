@@ -16,4 +16,7 @@
 `Best Table Topic Speech` Candice Gao
 
 ### 151, Words to Officers (2020-06-05)  
-`Best Table Topic Speech` Elvis Jiang   
+`Best Table Topic Speech` Elvis Jiang    
+
+### 152, June (2020-06-19)  
+`Best Table Topic Speech` Xin Feng   

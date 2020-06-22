@@ -29,4 +29,9 @@
 ### 151, Words to Officers (2020-06-05)
 `TT` Chunmiao Liu, Nrapendra Singh, Lanlan Deng, Elvis Jiang, Michelle Jin, Massimo Albani, Ivana Pazek, Mengting Chen, Yi Fang, Lei Zhang   
 `L1-2-2` Massimo Albani - What's in a name?    
-`L2-2` Lanlan Deng - Watching the movie while being in the movie 
+`L2-2` Lanlan Deng - Watching the movie while being in the movie   
+
+### 152, June (2020-06-19)
+`TT` Mengting Chen, Dongchen Tang, Xin Feng, Ivana Pazek   
+`L3-2` Ivana Pazek - Share similarities, Celebrate difference    
+`L1-3` Pengfei Guo - AI, worth it but with few scale impacts   
