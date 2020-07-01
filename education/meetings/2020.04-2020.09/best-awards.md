@@ -19,7 +19,5 @@
 `Best Table Topic Speech` Elvis Jiang    
 
 ### 152, June (2020-06-19)  
-`Best Table Topic Speech` Xin Feng
-
-### 153, June (2020-06-19)  
 `Best Table Topic Speech` Xin Feng 
+
