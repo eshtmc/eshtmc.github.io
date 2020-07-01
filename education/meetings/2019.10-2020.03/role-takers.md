@@ -114,5 +114,5 @@
 `IE`  Nrapendra Singh, Hongyu Qi          
 `TTM` Pengfei Guo     
 `Timer` Jing Shao   
-`Ah-counter` Anne Lin   
+`Ah-counter` Anne Lin
 `Meeting-Manager` Nrapendra Singh      
