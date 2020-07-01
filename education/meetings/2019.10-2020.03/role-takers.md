@@ -111,7 +111,7 @@
 ### 145, Reading (2020-03-27)   
 `TMD` Lanlan Deng              
 `GE`  Ivana Pazek          
-`IE`  Nrapendra Singh, Hongyu Qi              
+`IE`  Nrapendra Singh, Hongyu Qi          
 `TTM` Pengfei Guo     
 `Timer` Jing Shao   
 `Ah-counter` Anne Lin   
