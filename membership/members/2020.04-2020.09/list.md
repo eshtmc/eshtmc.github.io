@@ -1,4 +1,5 @@
 ##### Bingchen Guo
+##### Candice Gao
 ##### Chunmiao Liu
 ##### Dongchen Tang
 ##### Elvis Jiang
@@ -7,17 +8,16 @@
 ##### Hong Wang
 ##### Hongyu Qi
 ##### Ivana Pazek
+##### Jarek Hu
 ##### Jing Shao
 ##### Lanlan Deng
 ##### Lei Zhang
 ##### Maggie Li
 ##### Massimo Albani
+##### Mengting Chen
 ##### Michelle Jin
+##### Mohammed Asif
 ##### Nrapendra Singh
+##### Pengfei Guo
 ##### Xin Feng
 ##### Yi Fang
-##### Mohammed Asif
-##### Pengfei Guo
-##### Jarek Hu
-##### Candice Gao
-##### Mengting Chen
