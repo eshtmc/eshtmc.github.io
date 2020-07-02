@@ -1,5 +1,6 @@
-### 2019.04-2019.09
-[attendance](https://eshtmc.github.io/education/meetings/2019.04-2019.09/attendance.html)
-[best-awards](https://eshtmc.github.io/education/meetings/2019.04-2019.09/best-awards)
-[role-takers](https://eshtmc.github.io/education/meetings/2019.04-2019.09/role-takers)
-[speakers](https://eshtmc.github.io/education/meetings/2019.04-2019.09/speakers)
+### 2020.04-2020.09
+[Attendance](https://eshtmc.github.io/education/meetings/2020.04-2020.09/attendance.html)   
+[Best-awards](https://eshtmc.github.io/education/meetings/2020.04-2020.09/best-awards)   
+[Role-takers](https://eshtmc.github.io/education/meetings/2020.04-2020.09/role-takers)   
+[Speakers](https://eshtmc.github.io/education/meetings/2020.04-2020.09/speakers)   
+
