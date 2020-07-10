@@ -34,5 +34,5 @@
 ### 152, June (2020-06-19)
 `TT` Nrapendra Singh, Mohammed Asif, Ivana Pazek, Xin Feng, Elvis Jiang, Dongchen Tang, Honglai Wang, Mengting Chen   
 `L1-3` Massimo Albani - The secret of happiness   
-`L3-3` Ivana Pazek - AI, worth it but with few scale impacts   
-`L2-1` Maggie Li - AI, worth it but with few scale impacts   
+`L3-3` Ivana Pazek - Understand and heal trauma   
+`L2-1` Maggie Li - Three questions about leadership   
