@@ -32,6 +32,7 @@
 `L2-2` Lanlan Deng - Watching the movie while being in the movie   
 
 ### 152, June (2020-06-19)
-`TT` Mengting Chen, Dongchen Tang, Xin Feng, Ivana Pazek   
-`L3-2` Ivana Pazek - Share similarities, Celebrate difference    
-`L1-3` Pengfei Guo - AI, worth it but with few scale impacts   
+`TT` Nrapendra Singh, Mohammed Asif, Ivana Pazek, Xin Feng, Elvis Jiang, Dongchen Tang, Honglai Wang, Mengting Chen   
+`L1-3` Massimo Albani - The secret of happiness   
+`L3-3` Ivana Pazek - AI, worth it but with few scale impacts   
+`L2-1` Maggie Li - AI, worth it but with few scale impacts   
