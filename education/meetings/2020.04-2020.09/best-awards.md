@@ -22,6 +22,6 @@
 `Best Table Topic Speech` Xin Feng 
 
 ### 153, Rainy Day (2020-07-10)  
-`Best Table Topic Speech` Elvis Jiang 
+`Best Table Topic Speech` Elvis Jiang  
 `Best Prepared Speech` Massimo Albani  
 `Best Individual Evaluator` Xin Feng
