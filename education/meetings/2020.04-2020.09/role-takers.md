@@ -56,3 +56,13 @@
 `TTM` Hongyu Qi    
 `Timer` Lanlan Deng      
 `Meeting-Manager` Fanrong Kong  
+
+### 153, Rainy Day (2020-07-10)   
+`Meeting-Manager` Maggie Li   
+`TMD` Dongchen Tang   
+`GE` Bay Wang   
+`Timer` Hong Wang   
+`Ah-counter` Jarek Hu   
+`Grammarian` Elvis Jiang   
+`TTM` Jing Shao    
+`IE` Chunmiao Liu, Fang Yao, Xin Feng   
