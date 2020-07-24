@@ -23,5 +23,10 @@
 
 ### 153, Rainy Day (2020-07-10)  
 `Best Table Topic Speech` Elvis Jiang  
-`Best Prepared Speech` Massimo Albani  
-`Best Individual Evaluator` Xin Feng
+`Best Prepared Speech` Massimo Albani    
+`Best Individual Evaluator` Xin Feng    
+
+### 153, Dog Days (2020-07-24)  
+`Best Table Topic Speech` Xin Feng, Yi Fang, Terry Tan  
+`Best Prepared Speech` Michelle Jin    
+`Best Individual Evaluator` Elvis Jiang    
