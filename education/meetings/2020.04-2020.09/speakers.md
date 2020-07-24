@@ -5,7 +5,6 @@
 `L1-3` Maggie Li - Get along better with your emotions   
 `L1-2-1` Pengfei Guo - What can we expect in China in 2020   
 
-
 ### 147, Design Festival (2020-04-24)
 `TT` Michelle Jin, Nrapendra Singh, Shouwei Wang, Fang Yao, Ivana Pazek, Jingjing Lu   
 `L2-1` Hong Wang - Leadership Style   
