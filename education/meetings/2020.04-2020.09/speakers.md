@@ -31,7 +31,18 @@
 `L2-2` Lanlan Deng - Watching the movie while being in the movie   
 
 ### 152, June (2020-06-19)
+`TT` Mengting Chen, Dongchen Tang, Xin Feng, Ivana Pazek       
+`L3-2` Ivana Pazek - Share similarities, Celebrate differences   
+`L1-3` Pengfei Guo - AI, worth it but with few scale impacts      
+
+### 153, Rainy Day (2020-07-10)
 `TT` Nrapendra Singh, Mohammed Asif, Ivana Pazek, Xin Feng, Elvis Jiang, Dongchen Tang, Honglai Wang, Mengting Chen   
 `L1-3` Massimo Albani - The secret of happiness   
 `L3-3` Ivana Pazek - Understand and heal trauma   
 `L2-1` Maggie Li - Three questions about leadership   
+
+### 154, Dog Days (2020-07-24)
+`TT` Honglai Wang, Xin Feng, Terry Tan, Xu Sun, Susan Fei, Massimo Albani, Menting Chen, Yi Fang, Michelle Jin, Yao Fang, Nrapendra Singh   
+`L1-3` Michelle Jin - Lose Weight    
+`L5-1` Nrapendra Singh - Game of Trust   
+`L2-1` Pengfei Guo - Why we need to rethink the purpose of AI   
