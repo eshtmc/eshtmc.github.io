@@ -66,3 +66,12 @@
 `Grammarian` Elvis Jiang   
 `TTM` Jing Shao    
 `IE` Chunmiao Liu, Fang Yao, Xin Feng   
+
+### 154, Dog Days (2020-07-24)   
+`Meeting-Manager` Massimo Albani   
+`TMD` Fang Yao   
+`GE` Lanlan Deng   
+`Timer` Ivana Pazek   
+`Ah-counter` Xin Feng   
+`TTM` Maggie Li    
+`IE` Elvis Jiang, Massimo Albani, Asif Mohammed   
