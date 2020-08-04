@@ -5,6 +5,7 @@
 ##### Elvis Jiang
 ##### Fang Yao
 ##### Fanrong Kong
+##### Honglai Wang
 ##### Hong Wang
 ##### Hongyu Qi
 ##### Ivana Pazek
