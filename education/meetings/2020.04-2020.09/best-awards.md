@@ -26,7 +26,12 @@
 `Best Prepared Speech` Massimo Albani    
 `Best Individual Evaluator` Xin Feng    
 
-### 153, Dog Days (2020-07-24)  
+### 154, Dog Days (2020-07-24)  
 `Best Table Topic Speech` Xin Feng, Yi Fang, Terry Tan  
 `Best Prepared Speech` Michelle Jin    
+`Best Individual Evaluator` Elvis Jiang    
+
+### 155, Economic Growth vs. Environmental Protection (2020-08-03)  
+`Best Table Topic Speech` Smaty Shi  
+`Best Prepared Speech` Yi Fang    
 `Best Individual Evaluator` Elvis Jiang    
