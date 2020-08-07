@@ -46,3 +46,9 @@
 `L1-3` Michelle Jin - Lose Weight    
 `L5-1` Nrapendra Singh - Game of Trust   
 `L2-1` Pengfei Guo - Why we need to rethink the purpose of AI   
+
+### 155, Economic Growth vs. Environmental Protection (2020-08-03)  
+`TT` Smaty Shi, Nrapendra Singh, Jiasai Shao, Terry Tan   
+`L2-3` Lanlan Deng - My mentee journey in Toastmasters    
+`L1-1` Jarek Hu - My Presentation journey   
+`L2-1` Yi Fang - No sytle is sytle   
