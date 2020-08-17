@@ -20,5 +20,6 @@
 ##### Mohammed Asif
 ##### Nrapendra Singh
 ##### Pengfei Guo
+##### Terry Tan
 ##### Xin Feng
 ##### Yi Fang
