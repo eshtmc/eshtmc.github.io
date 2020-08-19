@@ -88,8 +88,8 @@ function times {
    echo "* Speeches:       ${SPEECHES}"
 
    ROLES=`grep "${NAME}" ${CLUB_MEETINGS}/role-takers.md | awk -v FS='\`' '{print $2}'`
-   BASIC_ROLE_LIST=("TIMER" "ah-counter" "grammarian" "SAA-helper")
-   ADVANCED_ROLE_LIST=("TMD" "TTM" "IE" "GE" "TTE" "Meeting-Manager")
+   BASIC_ROLE_LIST=("Timer" "Ah-counter" "Grammarian" "SAA-helper")
+   ADVANCED_ROLE_LIST=("TMD" "TTM" "IE" "GE" "Meeting-Manager")
 
    #echo "All roles: "${ROLES}""
    if [ -n "${ROLES}" ];then
@@ -100,20 +100,25 @@ function times {
    fi
    
    basicRoleCount=0
+   echo "* Bacis Roles:    "
    for basicRole in ${BASIC_ROLE_LIST[@]}
    do
      result=`echo "${ROLES}" | grep -wi "^${basicRole}$" | wc -l`
-     let basicRoleCount+=${result}
+     echo "    - ${basicRole}: ${result}"
+	 let basicRoleCount+=${result}
    done
-   echo "* Bacis Roles:    ${basicRoleCount}"
+   echo "    - total:      ${basicRoleCount}"
 
    advancedRoleCount=0
+   echo "* Advanced Roles:    "
    for advancedRole in ${ADVANCED_ROLE_LIST[@]}
    do
      result=`echo "${ROLES}" | grep -wi "^${advancedRole}$" | wc -l`
+	 echo "    - ${advancedRole}: ${result}"
 	 let advancedRoleCount+=${result}
    done
-   echo "* Advanced Roles: ${advancedRoleCount}"
+   echo "    - total:      ${advancedRoleCount}"
+
 }
 
 echo "#### "${PERSON}""
