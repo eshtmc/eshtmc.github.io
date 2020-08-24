@@ -47,8 +47,13 @@
 `L5-1` Nrapendra Singh - Game of Trust   
 `L2-1` Pengfei Guo - Why we need to rethink the purpose of AI   
 
-### 155, Economic Growth vs. Environmental Protection (2020-08-03)  
+### 155, Economic Growth vs. Environmental Protection (2020-08-07)  
 `TT` Smaty Shi, Nrapendra Singh, Jiasai Shao, Terry Tan   
 `L2-3` Lanlan Deng - My mentee journey in Toastmasters    
 `L1-1` Jarek Hu - My Presentation journey   
 `L2-1` Yi Fang - No sytle is sytle   
+
+### 156, Movie and Memory (2020-08-21)  
+`TT` Xin Feng, Dongchen Tang, Susan Fei, Hongyu Qi, Maggie Li, Yi Fang, Nrapendra Singh   
+`L2-1` Michelle Jin - My leadership style and the Hat    
+`L1-1` Pengfei Guo - Story Power     

@@ -76,11 +76,20 @@
 `TTM` Maggie Li    
 `IE` Elvis Jiang, Massimo Albani, Asif Mohammed   
 
-### 155, Economic Growth vs. Environmental Protection (2020-08-03)   
+### 155, Economic Growth vs. Environmental Protection (2020-08-07)   
 `Meeting-Manager` Jing Shao   
 `TMD` Pengfei Guo   
 `GE` Nrapendra Singh   
 `Timer` Lei Zhang   
 `Ah-counter` Mohammed Asif   
 `TTM` Xin Feng    
-`IE` Fang Yao, Elvi Jiang, Massimo Albani  
+`IE` Fang Yao, Elvi Jiang, Massimo Albani     
+
+### 156, Economic Growth vs. Environmental Protection (2020-08-21)   
+`Meeting-Manager` Fang Yao   
+`TMD` Massimo Albani   
+`GE` Maggie Li   
+`Timer` Xin Feng   
+`Ah-counter` Nrapendra Singh   
+`TTM` Fanrong Kong    
+`IE` Ivana Pazek, Hong Wang     

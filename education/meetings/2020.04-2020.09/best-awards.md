@@ -31,7 +31,10 @@
 `Best Prepared Speech` Michelle Jin    
 `Best Individual Evaluator` Elvis Jiang    
 
-### 155, Economic Growth vs. Environmental Protection (2020-08-03)  
+### 155, Economic Growth vs. Environmental Protection (2020-08-07)  
 `Best Table Topic Speech` Smaty Shi  
 `Best Prepared Speech` Yi Fang    
 `Best Individual Evaluator` Elvis Jiang    
+
+### 156, Economic Growth vs. Environmental Protection (2020-08-21)  
+`Best Table Topic Speech` Yi Fang    
