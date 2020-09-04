@@ -37,4 +37,7 @@
 `Best Individual Evaluator` Elvis Jiang    
 
 ### 156, Economic Growth vs. Environmental Protection (2020-08-21)  
-`Best Table Topic Speech` Yi Fang    
+`Best Table Topic Speech` Yi Fang
+
+### 157, DEMO - ESHTMC on the Move (2020-09-04)  
+`Best Table Topic Speech` Nrapendra Singh    

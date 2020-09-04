@@ -57,3 +57,8 @@
 `TT` Xin Feng, Dongchen Tang, Susan Fei, Hongyu Qi, Maggie Li, Yi Fang, Nrapendra Singh   
 `L2-1` Michelle Jin - My leadership style and the Hat    
 `L1-1` Pengfei Guo - Story Power     
+
+### 157, DEMO - ESHTMC on the Move (2020-09-04)  
+`TT` Jarek Hu, Dongchen Tang, Chris Tang,  Maggie Li, Nrapendra Singh, Asif Mohammed, Elvis, Nancy   
+`L5-1` Elvis Jiang - The meaning of Stage    
+`L2-1` Massimo Albani - If you want to build a ship     

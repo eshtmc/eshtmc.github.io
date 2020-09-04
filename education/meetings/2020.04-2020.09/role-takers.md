@@ -93,3 +93,12 @@
 `Ah-counter` Nrapendra Singh   
 `TTM` Fanrong Kong    
 `IE` Ivana Pazek, Hong Wang     
+
+### 157, DEMO - ESHTMC on the Move (2020-09-04)   
+`Meeting-Manager` Elvis Jiang   
+`TMD` Nrapendra Singh   
+`GE` Xin Feng   
+`Timer` Mengting Chen   
+`Ah-counter` Lanlan Deng   
+`TTM` Jing Shao    
+`IE` Michelle Jin, Fang Yao   
