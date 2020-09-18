@@ -61,4 +61,8 @@
 ### 157, DEMO - ESHTMC on the Move (2020-09-04)  
 `TT` Jarek Hu, Dongchen Tang, Chris Tang,  Maggie Li, Nrapendra Singh, Asif Mohammed, Elvis, Nancy   
 `L5-1` Elvis Jiang - The meaning of Stage    
-`L2-1` Massimo Albani - If you want to build a ship     
+`L2-1` Massimo Albani - If you want to build a ship    
+
+### 158, Cost Cutting (2020-09-18)  
+`TT` Xin Feng, Ivana Pazek, Hong Wang, Dongchen Tang, Michelle Jin, Chris Tang, Nrapendra Singh    
+`L1-1` Candice Gao - Travel Alone is Not So Bad    

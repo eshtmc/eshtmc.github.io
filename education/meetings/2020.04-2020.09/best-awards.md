@@ -40,4 +40,7 @@
 `Best Table Topic Speech` Yi Fang
 
 ### 157, DEMO - ESHTMC on the Move (2020-09-04)  
-`Best Table Topic Speech` Nrapendra Singh    
+`Best Table Topic Speech` Nrapendra Singh  
+
+### 158 - Cost Cutting (2020-09-18)  
+`Best Table Topic Speech` N/A    

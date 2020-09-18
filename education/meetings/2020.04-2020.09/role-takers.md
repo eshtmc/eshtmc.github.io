@@ -102,3 +102,12 @@
 `Ah-counter` Lanlan Deng   
 `TTM` Jing Shao    
 `IE` Michelle Jin, Fang Yao   
+
+### 158 - Cost Cutting (2020-09-18)   
+`Meeting-Manager` Mohammed Asif   
+`TMD` Nrapendra Singh   
+`GE` Massimo Albani   
+`Timer` Honglai Wang   
+`Ah-counter` Terry Tan   
+`TTM` Hongyu Qi    
+`IE` Dongchen Tang, Elvis Jiang   
