@@ -111,3 +111,12 @@
 `Ah-counter` Terry Tan   
 `TTM` Hongyu Qi    
 `IE` Dongchen Tang, Elvis Jiang   
+
+### 159 - Travel (2020-09-25)  
+`Meeting-Manager` Bingchen Guo   
+`TMD` Massimo Albani   
+`GE` Nrapendra Singh   
+`Timer` Mohammed Asif   
+`Ah-counter` Candice Gao   
+`TTM` Maggie Li    
+`IE` Elvis Jiang, Ivana Pazek   

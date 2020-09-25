@@ -44,3 +44,6 @@
 
 ### 158 - Cost Cutting (2020-09-18)  
 `Best Table Topic Speech` N/A    
+
+### 159 - Travel (2020-09-25)  
+`Best Table Topic Speech` Michelle Jin    

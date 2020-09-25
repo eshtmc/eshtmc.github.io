@@ -66,3 +66,8 @@
 ### 158, Cost Cutting (2020-09-18)  
 `TT` Xin Feng, Ivana Pazek, Hong Wang, Dongchen Tang, Michelle Jin, Chris Tang, Nrapendra Singh    
 `L1-1` Candice Gao - Travel Alone is Not So Bad    
+
+### 159, Travel (2020-09-25)  
+`TT` Xin Feng, Nrapendra Singh, Michelle Jin, Ivana Pazek, Lanlan Deng, Terry Tan         
+`AC-5` Xin Feng - On the Training Job       
+`L2-2` Michelle Jin - Peace and Love      
