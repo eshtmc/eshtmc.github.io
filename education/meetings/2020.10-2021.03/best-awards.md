@@ -1,6 +1,4 @@
 #### [Home](https://eshtmc.github.io/)    
 
 ### 160, Breakthrough (2020-10-16)  
-`Best Table Topic Speech` Zhao Zhang       
-### `Best Prepared Speech` xxx    
-### `Best Individual Evaluator` xxx       
+`Best Table Topic Speech` Zhao Zhang             
