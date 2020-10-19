@@ -14,9 +14,9 @@
 ##### Lei Zhang
 ##### Maggie Li
 ##### Massimo Albani
-##### Mengting Chen
 ##### Michelle Jin
 ##### Mohammed Asif
+##### Nancy Jin
 ##### Nrapendra Singh
 ##### Pengfei Guo
 ##### Susan Fei
