@@ -11,11 +11,11 @@
 `Meeting-Manager` Michelle Jin        
 
 ### 161, Coffee (2020-10-21)         
-`TMD` xxx              
-`GE`  xxx          
-`IE`  xxx              
-`TTM` xxx     
-`Timer` xxx   
-`Grammarian` xxx   
-`Ah-counter` xxx            
-`Meeting-Manager` xxx        
+`TMD` Hongyu Qi              
+`GE`  Massimo Albani          
+`IE`  Chunmiao Liu, Jarek Hu, Nrapendra Singh              
+`TTM` Xin Feng     
+`Timer` Terry Tan   
+`Grammarian` Lanlan Deng   
+`Ah-counter` Candice Gao            
+`Meeting-Manager` Jarek Hu        
