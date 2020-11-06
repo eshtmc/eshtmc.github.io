@@ -19,3 +19,12 @@
 `Grammarian` Lanlan Deng   
 `Ah-counter` Candice Gao            
 `Meeting-Manager` Jarek Hu        
+
+### 162, Self Reliance (2020-11-06)         
+`TMD` Massimo Albani              
+`GE`  Hongyu Qi          
+`IE`  Michelle Jin, Jing Shao              
+`TTM` Elvis Jiang     
+`Timer` Lei Zhang      
+`Ah-counter` Susan Fei            
+`Meeting-Manager` Nrapendra Singh        
