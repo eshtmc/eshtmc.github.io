@@ -13,4 +13,9 @@
 ### 162, Self Reliance (2020-11-06)              
 `TT`  Lei Zhang, Nrapendra Singh, Michelle Jin, Hongyu Qi, Yi Zhou, Asif Mohammed, Zhaozhang Li       
 `L3-1` Pengfei Guo - Effective Negotiation           
-`L5-2` Nrapendra Singh - What Next  
+`L5-2` Nrapendra Singh - What Next      
+
+### 163, Childhood Game (2020-11-20)             
+`TT`  Massimo Albani, Nrapendra Singh, Elvis Jiang, Chris Tang, Asif Mohammed, Michelle Jin       
+`L1-1` Susan Fei - Who Am I           
+`L1-1` Honglai Wang - Toastmasters      

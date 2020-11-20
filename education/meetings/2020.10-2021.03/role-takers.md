@@ -28,3 +28,12 @@
 `Timer` Lei Zhang      
 `Ah-counter` Susan Fei            
 `Meeting-Manager` Nrapendra Singh        
+
+### 163, Childhood Game (2020-11-20)      
+`TMD` Jarek Hu              
+`GE`  Massimo Albani          
+`IE`  Lanlan Deng, Nrapendra Singh              
+`TTM` Terry Tan     
+`Timer` Lei Zhang      
+`Grammarian` Jing Shao                  
+`Meeting-Manager` Dongchen Tang      

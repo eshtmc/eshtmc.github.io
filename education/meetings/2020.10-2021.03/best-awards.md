@@ -9,4 +9,7 @@
 `Best Individual Evaluator` Nrapendra Singh      
 
 ### 162, Self Reliance (2020-11-06)      
-`Best Table Topic Speech` ZhaoZhang Li
+`Best Table Topic Speech` ZhaoZhang Li    
+
+### 163, Childhood Game (2020-11-20)      
+`Best Table Topic Speech` Chris Tang     
