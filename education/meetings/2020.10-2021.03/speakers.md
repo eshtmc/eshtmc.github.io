@@ -19,3 +19,9 @@
 `TT`  Massimo Albani, Nrapendra Singh, Elvis Jiang, Chris Tang, Asif Mohammed, Michelle Jin       
 `L1-1` Susan Fei - Who Am I           
 `L1-1` Honglai Wang - Toastmasters      
+
+### 164, Health Checks (2020-12-04)   
+`TT`  Asif Mohammed, Lei Zhang, Zak Zheng, Xin Feng, Nrapendra Singh, Elvis Jiang, Chris Chen                          
+`L2-2` Dopamine Fasting - Jing Shao                
+`L2-2` When I was new - Yi Fang              
+`L1-1` My Names - Xin Feng                 

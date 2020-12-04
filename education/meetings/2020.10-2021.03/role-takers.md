@@ -37,3 +37,13 @@
 `Timer` Lei Zhang      
 `Grammarian` Jing Shao                  
 `Meeting-Manager` Dongchen Tang      
+
+### 164, Health Checks (2020-12-04)     
+`TMD` Nrapendra Singh              
+`GE`  Lei Zhang          
+`IE`  Maggie Li, Chunmiao Liu, Elvis Jiang              
+`TTM` Candice Gao     
+`Timer` Michelle Jin   
+`Grammarian` Lanlan Deng   
+`Ah-counter` Asif Mohammed            
+`Meeting-Manager` Yi Fang        

@@ -13,3 +13,8 @@
 
 ### 163, Childhood Game (2020-11-20)      
 `Best Table Topic Speech` Chris Tang     
+
+### 164, Health Checks (2020-12-04)      
+`Best Table Topic Speech` Chris Chen     
+`Best Prepared Speech` Yi Fang      
+`Best Individual Evaluator` Chunmiao Liu      
