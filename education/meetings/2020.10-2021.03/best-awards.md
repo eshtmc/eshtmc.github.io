@@ -18,3 +18,8 @@
 `Best Table Topic Speech` Chris Chen     
 `Best Prepared Speech` Yi Fang      
 `Best Individual Evaluator` Chunmiao Liu      
+
+### 165, Wonderful Moments (2020-12-18)      
+`Best Table Topic Speech` Nrapendra Singh     
+`Best Prepared Speech` Michelle Jin      
+`Best Individual Evaluator` Hongyu Qi      

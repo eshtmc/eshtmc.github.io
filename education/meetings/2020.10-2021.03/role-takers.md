@@ -47,3 +47,13 @@
 `Grammarian` Lanlan Deng   
 `Ah-counter` Asif Mohammed            
 `Meeting-Manager` Yi Fang        
+
+### 165, Wonderful Moments (2020-12-18)      
+`TMD` Yi Fang              
+`GE`  Elvis Jiang          
+`IE`  Mohammed Asif, Nrapendra Singh, Hongyu Qi              
+`TTM` Xin Feng     
+`Timer` Honglai Wang   
+`Grammarian` Lanlan Deng   
+`Ah-counter` Maggie Li            
+`Meeting-Manager` Xin Feng        
