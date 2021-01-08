@@ -57,3 +57,13 @@
 `Grammarian` Lanlan Deng   
 `Ah-counter` Maggie Li            
 `Meeting-Manager` Xin Feng        
+
+### 166, New Year Goal (2021-01-08)       
+`TMD` Mohammed Asif              
+`GE`  Maggie Li          
+`IE`  Michelle Jin, Nrapendra Singh, Elvis Jiang                     
+`TTM` Fang Yao          
+`Timer` Susan Fei               
+`Grammarian` Jing Shao        
+`Ah-counter` Honglai Wang            
+`Meeting-Manager` Maggie Li        

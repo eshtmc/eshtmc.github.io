@@ -23,3 +23,8 @@
 `Best Table Topic Speech` Nrapendra Singh     
 `Best Prepared Speech` Michelle Jin      
 `Best Individual Evaluator` Hongyu Qi      
+
+### 166, New Year Goal (2021-01-08)       
+`Best Table Topic Speech` Hongyu Qi     
+`Best Prepared Speech` Fanrong Kong      
+`Best Individual Evaluator` Michelle Jin      

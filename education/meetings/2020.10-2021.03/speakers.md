@@ -31,3 +31,9 @@
 `L1-3` How to learn a New Language - Lei Zhang                
 `L1-3` Compassion - Chunmiao Liu              
 `L2-3` My Mentor - Michelle Jin                      
+
+### 166, New Year Goal (2021-01-08)       
+`TT`  Jarek Hu, Xin Feng, Nrapendra Singh, Maggie Li, Hongyu Qi, Lauryn Lou                                   
+`L3-1` Sleep Early, Baby - Lanlan Deng                
+`L1-1` My Hometown - Terry Tan              
+`L1-2-2` My traveling during pandemic in 2020 - Fanrong Kong                                   
