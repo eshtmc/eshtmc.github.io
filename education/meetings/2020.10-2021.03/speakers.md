@@ -39,7 +39,10 @@
 `L1-2-2` My traveling during pandemic in 2020 - Fanrong Kong                             
 
 ### 167, Live Streaming (2021-01-29)       
-### N/A due to online meeting with no prepared SP      
+`TT`  Elvis Jiang, Xin Feng, Nrapendra Singh, Asif Mohammed, Chris Chen                                           
 
+### 168, Evaluation (2021-02-26)         
+`TT`  Elvis Jiang, Lanlan Deng, Hong Wang        
+`L5-2` Elvis Jiang - DINK      
  
 
