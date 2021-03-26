@@ -49,3 +49,8 @@
 `TT` Nrapendra Singh, Hongyu Qi, Terry Tan, Fang Yao, Jarek Hu, Xin Feng, Massimo Albani        
 `L1-2` Terry Tan - Lonely economy    
 `Reflection` Nrapendra Singh - Fear to Fun      
+
+### 170, Smart Phone (2021-03-26)       
+`TT`  Fang Yao, Nrapendra Singh, Xin Feng, Qiushi Cao, Massimo Albani, Guipeng Wang         
+`L1-1` Nancy Jin - My First Public Speech    
+`L1-2` Honglai Wang - My Stock Story      

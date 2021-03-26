@@ -35,5 +35,8 @@
 ### 168, Evaluation (2021-02-26)       
 ### N/A due to Evaluation Camp & only one prepared SP             
 
-### 16, Build a Garden (2021-03-12)      
+### 169, Build a Garden (2021-03-12)      
 `Best Table Topic Speech` Xin Feng     
+
+### 170, Smart Phone (2021-03-26)      
+`Best Table Topic Speech` Qiushi Cao
