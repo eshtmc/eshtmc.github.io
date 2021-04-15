@@ -2,4 +2,4 @@
 
 ### 171, Debate (2021-04-09)
 
-- ==Best Table Topic Speech== Nrapendra Singh, Yiqi Liu
+- `Best Table Topic Speech` Nrapendra Singh, Yiqi Liu
