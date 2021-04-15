@@ -4,6 +4,7 @@
 
 | Role              | Name            |
 | :---------------- | --------------- |
+| `SAA Helper`      | N/A             |
 | `Meeting Manager` | Maggie Li       |
 | `TMD`             | Elvis Jiang     |
 | `GE`              | Nrapendra Singh |
