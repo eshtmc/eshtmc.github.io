@@ -27,3 +27,17 @@
 | `Grammarian`      | N/A                     |
 | `TTM`             | Elvis Jiang             |
 | `IE`              | Chunmiao Liu, Hongyu Qi |
+
+### 173, Window Shopping (2021-05-14)
+
+| Role              | Name                  |
+| :---------------- | --------------------- |
+| `SAA-helper`      | N/A                   |
+| `Meeting Manager` | Elvis Jiang           |
+| `TMD`             | Nrapendra Singh       |
+| `GE`              | Fang Yao              |
+| `Timer`           | Susan Fei             |
+| `Ah-counter`      | Lei Zhang             |
+| `Grammarian`      | N/A                   |
+| `TTM`             | Jing Shao             |
+| `IE`              | Elvis Jiang, Xin Feng |
