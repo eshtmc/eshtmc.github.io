@@ -11,3 +11,8 @@
 ### 173, Window Shopping (2021-05-14)
 
 - `Best Table Topic Speech` Xin Feng, Elvis Jiang
+
+### 174, 7th Happy Anniversary ESHTMC (2021-05-21)
+
+- `Best Table Topic Speech` Xin Feng
+

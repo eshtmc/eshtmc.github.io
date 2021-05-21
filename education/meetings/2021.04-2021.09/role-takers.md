@@ -41,3 +41,17 @@
 | `Grammarian`      | N/A                   |
 | `TTM`             | Jing Shao             |
 | `IE`              | Elvis Jiang, Xin Feng |
+
+### 174, 7th Happy Anniversary ESHTMC (2021-05-21)
+
+| Role              | Name                   |
+| :---------------- | ---------------------- |
+| `SAA-helper`      | Susan Fei              |
+| `Meeting Manager` | Nrapendra Singh        |
+| `TMD`             | Elvis Jiang            |
+| `GE`              | Xin Feng               |
+| `Timer`           | Terry Tan              |
+| `Ah-counter`      | Nancy Jin              |
+| `Grammarian`      | Chunmiao Liu           |
+| `TTM`             | Lei Zhang              |
+| `IE`              | Hongyu Qi, Lanlan Deng |

@@ -16,3 +16,9 @@
 - `TT` Nrapendra Singh, Chunmiao Liu, Maggie Li, Xin Feng, Elvis Jiang, Lanlan Yang, Lanlan Deng
 - `L1-2`  `Ericsson on the move` Nancy Jin
 - `L2-1`  `Culture and Communication` Chunmiao Liu
+
+### 174, 7th Happy Anniversary ESHTMC (2021-05-21)
+
+- `TT` William, Xin Feng, Nrapendra Singh, Wenjun, Elvis Jiang, Marcus
+- `L1-2`  `Lost and found` Nrapendra Singh
+- `L1-3`  `Be Happier` Massimo Albani
