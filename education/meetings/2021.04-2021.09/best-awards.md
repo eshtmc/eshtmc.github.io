@@ -16,3 +16,6 @@
 
 - `Best Table Topic Speech` Xin Feng
 
+### 175, Laid-Back (2021-06-04)
+
+- `Best Table Topic Speech` Cavin

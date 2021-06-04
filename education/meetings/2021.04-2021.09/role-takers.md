@@ -55,3 +55,17 @@
 | `Grammarian`      | Chunmiao Liu           |
 | `TTM`             | Lei Zhang              |
 | `IE`              | Hongyu Qi, Lanlan Deng |
+
+### 175, Laid-Back (2021-06-04)
+
+| Role              | Name           |
+| :---------------- | -------------- |
+| `SAA-helper`      | Susan Fei      |
+| `Meeting Manager` | Dongchen Tang  |
+| `TMD`             | Massimo Albani |
+| `GE`              | Maggie Li      |
+| `Timer`           | Elvis Jiang    |
+| `Ah-counter`      | Fang Yao       |
+| `Grammarian`      | N/A            |
+| `TTM`             | Terry Tan      |
+| `IE`              | N/A            |

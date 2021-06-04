@@ -22,3 +22,7 @@
 - `TT` William, Xin Feng, Nrapendra Singh, Wenjun, Elvis Jiang, Marcus
 - `L1-2`  `Lost and found` Nrapendra Singh
 - `L1-3`  `Be Happier` Massimo Albani
+
+### 175, Laid-Back (2021-06-04)
+
+- `TT` Xin Feng, Maggie Li, Nrapendra Singh, Cavin, Fang Yao, Tyler Yu
