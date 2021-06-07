@@ -2,7 +2,7 @@
 
 PERSON="$1"
 if [ -z $2 ]; then
-   TERM="2019.10-2020.03"
+   TERM="2021.04-2021.09"
 else
    TERM="$2"
 fi
@@ -75,9 +75,9 @@ function roles {
 function times {
    NAME="$1"
 
-   if [ -f ${CLUB_MEETINGS}/attendance.html ]; then
-      if grep "${NAME}" ${CLUB_MEETINGS}/attendance.html &> /dev/null; then
-         ATTENDANCE=`grep "${NAME}" ${CLUB_MEETINGS}/attendance.html | awk -F"1" '{print NF-1}'`
+   if [ -f ${CLUB_MEETINGS}/attendance.md ]; then
+      if grep "${NAME}" ${CLUB_MEETINGS}/attendance.md &> /dev/null; then
+         ATTENDANCE=`grep "${NAME}" ${CLUB_MEETINGS}/attendance.md | awk -F"1" '{print NF-1}'`
       else
          ATTENDANCE=0
       fi
