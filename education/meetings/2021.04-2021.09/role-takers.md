@@ -1,4 +1,6 @@
-#### [Home](https://eshtmc.github.io/)  
+## [Home](https://eshtmc.github.io/)  
+
+[toc]
 
 ### 171, Debate (2021-04-09)
 
@@ -69,3 +71,17 @@
 | `Grammarian`      | N/A            |
 | `TTM`             | Terry Tan      |
 | `IE`              | N/A            |
+
+### 176, Friends (2021-06-25)
+
+| Role              | Name                 |
+| :---------------- | -------------------- |
+| `SAA-helper`      | Yi Fang              |
+| `Meeting Manager` | Yi Fang              |
+| `TMD`             | Xin Feng             |
+| `GE`              | Nrapendra Singh      |
+| `Timer`           | Jarek Hu             |
+| `Ah-counter`      | Nancy Jin            |
+| `Grammarian`      | Chunmiao Liu         |
+| `TTM`             | Honglai Wang         |
+| `IE`              | Hongyu Qi, Jing Shao |
