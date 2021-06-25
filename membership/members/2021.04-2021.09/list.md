@@ -14,6 +14,9 @@
 ##### Michelle Jin
 ##### Nancy Jin
 ##### Nrapendra Singh
+
+##### Sarah Zhang
+
 ##### Susan Fei
 ##### Terry Tan
 ##### Xin Feng
