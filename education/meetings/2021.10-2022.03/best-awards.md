@@ -1,4 +1,6 @@
-#### [Home](https://eshtmc.github.io/)    
+## [Home](https://eshtmc.github.io/)    
+
+[toc]
 
 ### 171, Debate (2021-04-09)
 
@@ -19,3 +21,7 @@
 ### 175, Laid-Back (2021-06-04)
 
 - `Best Table Topic Speech` Cavin
+
+### 176, Friends (2021-06-25)
+
+- `Best Table Topic Speech` Nrapendra Singh

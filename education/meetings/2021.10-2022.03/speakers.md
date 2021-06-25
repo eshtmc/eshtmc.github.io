@@ -1,4 +1,6 @@
-#### [Home](https://eshtmc.github.io/)    
+## [Home](https://eshtmc.github.io/)    
+
+[toc]
 
 ### 171, Debate (2021-04-09)
 
@@ -26,3 +28,9 @@
 ### 175, Laid-Back (2021-06-04)
 
 - `TT` Xin Feng, Maggie Li, Nrapendra Singh, Cavin, Fang Yao, Tyler Yu
+
+### 176, Friends (2021-06-25)
+
+- `TT` Elvis Jiang, Rui, Nrapendra Singh, Michelle Jin, Quan Tang, Liu Yiqi, Fang Yao
+- `L1-1`  `Fortune Favors The Bold` Sarah Zhang
+- `L1-2`  `Crazy Bitcoin` Terry Tan
