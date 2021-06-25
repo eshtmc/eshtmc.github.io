@@ -18,8 +18,9 @@
 |  Michelle Jin   | 0          | 1          | 0          | 1          | 0          | 1          |
 |    Nancy Jin    | 1          | 1          | 1          | 1          | 0          | 1          |
 | Nrapendra Singh | 1          | 1          | 1          | 1          | 1          | 1          |
+|   Sarah Zhang   | 0          | 0          | 0          | 0          | 0          | 1          |
 |    Susan Fei    | 0          | 1          | 1          | 1          | 1          | 0          |
 |    Terry Tan    | 0          | 0          | 1          | 1          | 1          | 1          |
 |    Xin Feng     | 1          | 1          | 1          | 1          | 1          | 1          |
 |     Yi Fang     | 1          | 1          | 0          | 1          | 1          | 1          |
-|      Total      | 12         | 14         | 14         | 15         | 9          | 15         |
+|      Total      | 12         | 14         | 14         | 15         | 9          | 16         |
