@@ -34,3 +34,9 @@
 - `TT` Elvis Jiang, Rui, Nrapendra Singh, Michelle Jin, Quan Tang, Liu Yiqi, Fang Yao
 - `L1-1`  `Fortune Favors The Bold` Sarah Zhang
 - `L1-2`  `Crazy Bitcoin` Terry Tan
+
+### 177, Summer Vacation (2021-07-09)
+
+- `TT` Chunmiao Liu, Nrapendra Singh, Xin Feng, Ella Yang, Nancy Jin, Eric Ni, Quanxin Bao
+- `L1-1`  `Vulnerable` Xin Feng
+- `Reflection`  `See that guy in the mirror` Elvis Jiang
