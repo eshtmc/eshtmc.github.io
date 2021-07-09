@@ -85,3 +85,17 @@
 | `Grammarian`      | Chunmiao Liu         |
 | `TTM`             | Honglai Wang         |
 | `IE`              | Hongyu Qi, Jing Shao |
+
+### 177, Summer Vacation (2021-07-09)
+
+| Role              | Name                 |
+| :---------------- | -------------------- |
+| `SAA-helper`      | N/A                  |
+| `Meeting Manager` | elvis Jiang          |
+| `TMD`             | Massimo Albani       |
+| `GE`              | N/A                  |
+| `Timer`           | Susan Fei            |
+| `Ah-counter`      | N/A                  |
+| `Grammarian`      | N/A                  |
+| `TTM`             | Chunmiao Liu         |
+| `IE`              | N/A                  |
