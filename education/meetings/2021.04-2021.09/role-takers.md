@@ -90,8 +90,8 @@
 
 | Role              | Name                 |
 | :---------------- | -------------------- |
-| `SAA-helper`      | N/A                  |
-| `Meeting Manager` | elvis Jiang          |
+| `SAA-helper`      | Lanlan Deng          |
+| `Meeting Manager` | Elvis Jiang          |
 | `TMD`             | Massimo Albani       |
 | `GE`              | N/A                  |
 | `Timer`           | Susan Fei            |
