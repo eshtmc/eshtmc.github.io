@@ -25,3 +25,7 @@
 ### 176, Friends (2021-06-25)
 
 - `Best Table Topic Speech` Nrapendra Singh
+
+### 177, Summer Vacation (2021-07-09)
+
+- `Best Table Topic Speech` Ella Yang
