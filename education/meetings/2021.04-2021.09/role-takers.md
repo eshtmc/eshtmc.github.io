@@ -99,3 +99,18 @@
 | `Grammarian`      | N/A                  |
 | `TTM`             | Chunmiao Liu         |
 | `IE`              | N/A                  |
+
+### 178, Learning (2021-07-30)
+
+| Role              | Name                 |
+| :---------------- | -------------------- |
+| `SAA-helper`      | Lanlan Deng          |
+| `Meeting Manager` | Terry Tan            |
+| `TMD`             | Xin Feng             |
+| `GE`              | Massimo Albani       |
+| `Timer`           | Jarek Hu             |
+| `Ah-counter`      | Lanlan Yang          |
+| `Grammarian`      | Frank Liu            |
+| `TTM`             | Lanlan Deng          |
+| `IE`              | Maggie Li            |
+
