@@ -3,20 +3,20 @@
 ##### Dongchen Tang
 ##### Elvis Jiang
 ##### Fang Yao
+##### Frank Liu 
 ##### Honglai Wang
 ##### Hongyu Qi
 ##### Jarek Hu
 ##### Jing Shao
 ##### Lanlan Deng
+##### Lanlan Yang
 ##### Lei Zhang
 ##### Maggie Li
 ##### Massimo Albani
 ##### Michelle Jin
 ##### Nancy Jin
 ##### Nrapendra Singh
-
 ##### Sarah Zhang
-
 ##### Susan Fei
 ##### Terry Tan
 ##### Xin Feng
