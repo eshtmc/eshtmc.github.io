@@ -40,3 +40,9 @@
 - `TT` Chunmiao Liu, Nrapendra Singh, Xin Feng, Ella Yang, Nancy Jin, Eric Ni, Quanxin Bao
 - `L1-1`  `Vulnerable` Xin Feng
 - `Reflection`  `See that guy in the mirror` Elvis Jiang
+
+### 178, Learning (2021-07-30)
+
+- `TT`  Xin Feng, Maggie Li, Elvis Jiang, Lea, Sarah Zhang, Frank Liu
+- `L1-1`  `roguelike` Elvis Jang
+- `Sharing`  `Diet & Gym` Lea from Dalian
