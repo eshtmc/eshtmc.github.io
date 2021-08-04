@@ -29,3 +29,7 @@
 ### 177, Summer Vacation (2021-07-09)
 
 - `Best Table Topic Speech` Ella Yang
+
+### 178, Learning (2021-07-30)
+
+- `Best Table Topic Speech` Lea from Dalian
