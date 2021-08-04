@@ -19,5 +19,6 @@
 ##### Sarah Zhang
 ##### Susan Fei
 ##### Terry Tan
+##### Tyler Yu
 ##### Xin Feng
 ##### Yi Fang
