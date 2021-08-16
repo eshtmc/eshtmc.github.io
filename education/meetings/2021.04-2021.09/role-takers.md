@@ -114,3 +114,16 @@
 | `TTM`             | Lanlan Deng          |
 | `IE`              | Maggie Li            |
 
+### 179, It's OK to be different (2021-08-13)
+
+| Role              | Name                 |
+| :---------------- | -------------------- |
+| `SAA-helper`      | Nrapendra Singh      |
+| `Meeting Manager` | Nancy Jin            |
+| `TMD`             | Lanlan Deng          |
+| `GE`              | Xin Feng             |
+| `Timer`           | Fang Yao             |
+| `Ah-counter`      | Tyler Yu             |
+| `Grammarian`      | Chunmiao Liu         |
+| `TTM`             | Elvis Jiang          |
+| `IE`              | Massimo Albani       |
