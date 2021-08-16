@@ -33,3 +33,7 @@
 ### 178, Learning (2021-07-30)
 
 - `Best Table Topic Speech` Lea from Dalian
+
+### 179, It's OK to be different (2021-08-13)
+
+- `Best Table Topic Speech` Nrapendra Singh
