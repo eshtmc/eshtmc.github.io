@@ -46,3 +46,9 @@
 - `TT`  Xin Feng, Maggie Li, Elvis Jiang, Lea, Sarah Zhang, Frank Liu
 - `L1-1`  `roguelike` Elvis Jang
 - `Sharing`  `Diet & Gym` Lea from Dalian
+
+### 179, It's OK to be different (2021-08-13)
+
+- `TT`  Ella Yang, Terry Tan, Nrapendra Singh, Lanlan Yang
+- `L1-2-1`  `Armstrong` Sarah Zhang 
+- `Sharing`  `IE workshop` Xin Feng
