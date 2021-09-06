@@ -127,3 +127,17 @@
 | `Grammarian`      | Chunmiao Liu         |
 | `TTM`             | Elvis Jiang          |
 | `IE`              | Massimo Albani       |
+
+### 180, Burden alleviation (2021-08-27)
+
+| Role              | Name                 |
+| :---------------- | -------------------- |
+| `SAA-helper`      | N/A                  |
+| `Meeting Manager` | Jing Shao            |
+| `TMD`             | Fang Yao             |
+| `GE`              | Nrapendra Singh      |
+| `Timer`           | Lanlan Yang          |
+| `Ah-counter`      | N/A                  |
+| `Grammarian`      | N/A                  |
+| `TTM`             | Susan Fei            |
+| `IE`              | Sarah Zhang          |
