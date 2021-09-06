@@ -37,3 +37,7 @@
 ### 179, It's OK to be different (2021-08-13)
 
 - `Best Table Topic Speech` Nrapendra Singh
+
+### 180, Burden Alleviation (2021-08-27)
+
+- `Best Table Topic Speech` Nancy Jin
