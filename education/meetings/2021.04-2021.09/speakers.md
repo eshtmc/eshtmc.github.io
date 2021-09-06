@@ -52,3 +52,10 @@
 - `TT`  Ella Yang, Terry Tan, Nrapendra Singh, Lanlan Yang
 - `L1-2-1`  `Armstrong` Sarah Zhang 
 - `Sharing`  `IE workshop` Xin Feng
+
+### 180, Burden alleviation (2021-08-27)
+
+- `TT`  Ella Yang, Nancy Jin, Nrapendra Singh, Sarah Zhang, Zeyuan, Fang Yao
+- `L1-2-2`  `Empathy and humanness` Nancy Jin 
+- `Sharing`  `V8 Clarification` Elvis Jiang
+
